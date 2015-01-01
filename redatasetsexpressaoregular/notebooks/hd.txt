@@ -1,0 +1,11 @@
+500gb
+320gb
+640gb
+250gb
+500gb sata
+640gb sata
+750gb
+1tb
+128gb
+16gb
+4gb

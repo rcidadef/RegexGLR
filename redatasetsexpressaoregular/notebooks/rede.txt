@@ -1,0 +1,85 @@
+10/100 base-t ethernet lan (rj-45)
+10/100 mbps.
+ethernet 10/100
+10/100
+gigabit (10/100/100lan )
+10/100/1000 gigabit ethernet lan (rj-45 port)
+10base-t/100base-tx/1000base-t
+nao informado pelo fabricante.
+gigabit (10/100/1000) lan
+gigabit (10/100/1000) lan.
+1000base-t/100base-tx/10base-t x.
+10/100.
+gigabit (10/100/1000) ethernet.
+gigabit ethernet, wake-on-lan ready
+1000base-t/100base-tx/10base-t x1
+rede ethernet, 10 / 100
+gigabit (10/100/1000) ethernet
+rede  ethernet gigalan, 10 / 100 /1000
+10/100 mbps, fast ethernet
+10/100mbps; fast ethernet
+10/100/1000 mbps
+gigabit ethernet 10/100/1000 mbps
+gigabit (10/100)
+10/100m
+gigabit lan
+10/100 mbps
+10/100/1000 gigabit ethernet lan integrado (conector rj-45)
+ethernet
+nao informado pelo fornecedor
+rede - ethernet gigalan, 10/100/1000
+10/100/1000 mbps, gigabit ehernet
+10/100 mbps, fast ehernet
+wlan acer invilink nplify 802.11b/g/n wi-fi certified supporting acer signalup wireless technology lan: 10/100 mbps
+rede> ethernet gigalan, 10 / 100 /1000
+rede > ethernet gigalan, 10 / 100 /1000
+wlan1 802.11b/g/n wi-fi certified
+10/100/ 1000 mbps, gigabit ethernet
+gigabit (10/100/1000)
+10/100/1000 mps, gigabit ethernet
+10/100/1000 mbps, gigabit ethernet
+lan ethernet integrada 10/100base-t (conector rj-45)
+lan: gigabit ethernet, wake-on-lan ready
+sim, 1000base-t/100base-tx/10base-t
+sim, 1000base-t/100base-tx/10base-t x1
+nplift 802.11b/g/n wi-fi certified
+nplift 802.11b/g/n wi-fi certified
+rede ethernet gigalan; 10;100;1000
+nplify 802.11b/g/n wi-fi certified
+10;100;1000 mbps
+10;100 mbps
+rj 10/100 mbps
+onbord - fast ethernet - 10/100mbps
+onbord fast ethernet - 10/100mbps
+onbord - fast ethernet - 10/100/1000mbps
+onbord fast ethernet - 10;100;1000mbps
+10/100/1000 mbps; gigabit ehernet
+ethernet gigalan, 10 / 100 /1000
+10/100 lan
+1000base-t/100base-tx/10base-t
+ethernet10/100m
+lan ethernet 10/100base-t (conector rj-45)(10)
+10/100/1000 lan
+wlan 1x1 802.11b/g/n(19) e bluetooth®(26)
+10/100 ethernet
+acer invilink nplift 802.11b/g/n wi-fi certified
+lan ethernet 10/100base-t (conector rj-45)(29)
+wlan 1x1 802.11a/b/g/n(8)
+ethernet , 10 / 100
+nao para ethernet padrao rj45, apenas com wi-fi ( wireless padrao 802.11bg/n 2x2)
+gigabit ethernet network
+ethernet 10base-t/100base-tx
+lan ethernet 10/100base-t (conector rj-45) (29)
+10/100/1000 bigfoot killer e2200 series
+802.11 b/g/n c/ killer n1202
+gigabit lan c/ killer n1202
+gigabit lan c/ killer n1202
+onboard modelo: fast ethernet 10/100/1000
+1000base-t/100base-tx/10base-t x 1
+10/100 mbps; fast ehernet
+ethernet; 10 / 100
+rj45 - 10/100 ethernet
+rj45  10/100 ethernet
+modelo: fast ethernet 10/100/1000
+rj45 ¿ 10/100 ethernet
+rj45- 10/100 ethernet

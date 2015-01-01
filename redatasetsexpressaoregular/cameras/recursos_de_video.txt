@@ -1,0 +1,177 @@
+24 e 15 fps
+nao informado pelo fornecedor
+modos: deteccao de cena inteligente (paisagem, ceu azul, verde natural, por-do-sol), filme; edicao de videos (interna): pausa durante a gravacao, captura de imagens estaticas, corte de tempo
+tipo mp4 (h.264) formato filme: h.264, som: aac modo filme ae programa, abertura clipe de filme;  audio ligado/desligado (tempo de fotografia: ate 25 min) tamanho 1280x720, 640x480, 320x240 taxa de quadros 30 quadros por segundo som mono edicao captura de imagem estatica, corte de tempo
+gravacao de video em 720fine/720standard/vga640x480
+gravacao de video hd: (resolucao 1280 x 720 30fps); botao smart; estabilizador digital de imagem
+7434738
+gravacao de video hd: (resolucao 1280 x 720 30fps); botao smart; estabilizador digital de imagem.
+video com audio. hd 1280x720,  640x480 e 320x240.
+formato de gravacao: avi motion jpeg (30qps)     modo de video: hd: 1280(h)x720(v) aspecto 16:9; sd: 640(h)x480(v) aspecto 4:3 (vga) taxa de compressao: 1/12(hd), 1/8(sd) tamanho de arquivo: max. 2gb (limitado pelo formato avi) tempo maximo de gravacao: hd: 7min, sd: 14min.
+formato de gravacao: avi motion jpeg® qualidade video: 1280 x 720 / 30 ips tempo de gravacao: sem limites; 640 x 480 / 30 ips tempo de gravacao: sem limites; tamanho maximo do arquivo 2gb.
+"formato de gravacao: avi motion jpeg (30qps)     modo de video: hd: 1280(h)x720(v) aspecto 16:9; sd: 640(h)x480(v) aspecto 4:3 (vga) taxa de compressao: 1/12(hd), 1/8(sd) tamanho de arquivo: max. 2gb (limitado pelo formato avi) tempo maximo de gravacao: hd: 7min, sd: 14min".
+gravacao em 720 fine / 720 standard / vga
+alta definicao (hd) 1280x720p / 30qps formato de arquivo de video: mpeg-4 avc h.264
+video com som tamanho pequeno (320x240) video para tv (640x480) compativel com avi motion-jpeg
+alta definicao (hd) 1280x720p / 30qps formato de arquivo de video: compativel com avi motion-jpeg
+1920 x 1080 (24p): 24 qps (23.976 qps) 1280 x 720 (30p): 30 qps (29.97 qps) 1280 x 720 (25p): 25 qps 1280 x 720 (24p): 24 qps (23.976 qps) 640 x 424 (24p): 24 qps (23.976 qps)
+hd
+balanco de branco, compensacao de exposicao, ajuste automatico de brilho
+full hd 1920x1080p / 30qps
+1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 quadros/seg.) c/ som monaural. a funcao zoom pode se usada.
+1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 quadros/seg.) c/ som monaural.
+gravacao de video vga (resolucao 640 x 480 @30fps)
+gravacao de vga (resolucao 640 x 480 @30fps)
+estabilizacao de imagem digital 720p tempo de gravacao: 29 min. vga/qvga; nota: tamanho maximo do arquivo 4gb.
+formato de gravacao: mpeg-4 qualidade video: 720p tempo de gravacao: 29 min.; vga tempo de gravacao: sem limites. nota: tamanho maximo do arquivo 4gb
+formato de gravacao: avi motion jpeg qualidade video: 640 x 480 / 30 ips tempo de gravacao: sem limites; 320 x 240 / 30 ips tempo de gravacao: sem limites; tamanho maximo do arquivo 2gb.
+formato de gravacao: mpeg-4 qualidade video: 720p tempo de gravacao: 29 min.; vga tempo de gravacao: sem limites. nota: tamanho maximo do arquivo 4gb.
+clipe de video: com ou sem audio (selecionavel pelo usuario, tempo de gravacao maximo: 2 horas) tamanho: 640 x 480, 320 x 240 taxa de enquadramento: 30fps, 15fps zoom optico de 5x e mudo na utilizacao do zoom edicao de filme (embutido): pausa durante a gravacao, captura de imagem parada
+editar: foto de imagem parada, compensacao de temporizador
+video mov,hd
+bal. de branco, compensacao de exposicao, ajuste automatico de brilho
+full hd
+estabilizacao de imagem digital 720p, tempo de gravacao: 29 min, vga/qvga nota: tamanho maximo do arquivo 4gb
+estabilizacao de imagem digital 720p tempo de gravacao: 29 min. vga/qvga nota: tamanho maximo do arquivo 4gb
+formato de gravacao: avi motion jpeg® qualidade video: 1280 x 720 / 30 ips tempo de gravacao: sem limites; 640 x 480 / 30 ips tempo de gravacao: sem limites; tamanho maximo do arquivo 2gb"
+imagem fixa: jpeg (exif ver. 2.3* ) / video: avi (motion jpeg) com som audio: formato wave, som monaural (atende a norma de sistema de arquivos de cameras digitais / compativel com dpof)
+640 x 480 pixels / 320 x 240 pixels (30 quadros/seg.) com som monaural
+bal. de branco, compensacao de exposicao, ajuste automatico de brilho.
+bal. de branco, compensacao de exposicao, ajuste automatico de brilho.
+tipo mp4 (h.264) formato filme: h.264, som: aac modo filme ae programa, priorid. abertura clipe de filme audio tipo mp4 (h.264) formato filme: h.264, audio: aac
+edicao: criador de filme criativo, captura de imagem estatica, recorte de tempo
+1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 quadros/seg.)
+wvga 60fps, 720p 30fps, 720p 60fps, 960p 30fps, 1080p 30fps
+vga (640 x 480) / qvga (320 x 240)
+formato de arquivo de audio: aac estereo full hd 1920x1080p / 30qps alta definicao (hd) 1280x720p / 30qps iframe 540: 960x540 / 30qps formato de arquivo de video: mpeg-4 avc h.264 tv padrao: 640x480 / 30qps
+mp4 1280 x 720 (29.97 fps / taxa media 9/6 mbps), vga 640 x 480 (29.97 fps / taxa media 3 mbps)
+gravacao de video - 1920 x 1080 pixels / 1280 x 720 pixels / 640 x 480 pixels (30 quadros/seg.) com som estereo; zoom optico (manual) pode ser usado.
+1920 x 1080 / 1440 x 1080 / vga (640 x 480)
+edicao: captura de imagem estatica, recorte de tempo
+o video em superalta velocidade permite capturar a cena em ate 320 qps, exibindo cada passo com detalhes vivos. video em full hd 1080p
+hd: 1280p x 720p/30 qps iframe® 540: 960x540 / 30 qps formato de arquivo de video: mpeg-4 avc h.264 tv padrao: 640 x 480/30 qps
+editor de foto de imagem parada e compensacao de temporizador
+filma em hd (720p) / gravacao hd / resolucao de video - 280 x 720 / 640 x 480 / 320 x 240
+filma em hd (720p) / gravacao hd / resolucao de video: 1280 x 720 / 640 x 480 / 320 x 240; os filmes nao podem exceder individualmente o comprimento de 29 minutos
+edicao: captura de imagem estatica e recorte de tempo.
+captura de imagem estatica, corte de tempo.
+1280 (1280 x 720: hd), 640 (640 x 480: vga), 320 (320 x 240: qvga) / (30 quadros/seg.) com som monaural (a funcao zoom pode ser usada durante a gravacao de video)
+balanco de branco, compensacao de exposicao, ajuste automatico de brilho.
+modos: smart movie (paisagem, ceu azul, verde natural, por do sol), filme, pip, filtro de filme; formato: mp4 (h.264) (tempo maximo gravacao: 20 min) dimensao: 1280 x 720, 640 x 480, 320 x 240, para compartilhar (somente dv300f/dv305f); freq. imagem: 30 fps, 15 fps; som ao vivo: som em directo ligado, som em directo desligado, mudo; ois: activ., desact.; edicao de video (embutido): pausar durante a gravacao.
+hd: 1280p x 720p/30 qps tamanho pequeno: 320 x 240/30 qps tv padrao: 640 x 480/30 qps
+hd: 1280p x 720p/30 qps tv padrao: 640 x 480/30 qps
+selecione hd 1280 (1280 × 720) para uma taxa de 16 : 9 (alta definicao), 640  (640 × 480) para gravar filmes em uma definicao padrao, ou gravacoes (320 × 240) para filmes mais longos
+wvga 60fps, 720p 30fps, 720p 60fps, 960p 30fps e 1080p 30fps.
+hd: 1280p x 720p/30 qps; tamanho pequeno: 320 x 240/30 qps; tv padrao: 640 x 480/30 qps
+hd: 1280p x 720p/30 qps; tamanho pequeno: 320 x 240/30 qps; tv padrao: 640 x 480/30 qps .
+hd: 1280p x 720p/30 qps, tamanho pequeno: 320 x 240/30 qps, tv padrao: 640 x 480/30 qps.
+formato de arquivo de audio: aac estereo, full hd 1920p x 1080p/30 qps, hd: 1280p x 720p/30 qps, iframe® 540: 960x540 / 30 qps, formato de arquivo de video: mpeg-4 avc h.264  tv padrao: 640 x 480/30 qps
+formato de arquivo de audio: aac estereo, full hd 1920p x 1080p/30 qps, hd: 1280p x 720p/30 qps, iframe® 540: 960x540 / 30 qps, formato de arquivo de video: mpeg-4 avc h.264  tv padrao: 640 x 480/30 qps .
+hd: 1280p x 720p/30 gps, tv padrao: 640 x 480/30 gps.
+hd (1280 x 720 fine) / hd (1280 x 720 standard) / vga (640 x 480)
+mpeg-4 avc/h.264
+full hd 1920 x 1080 / 1440 x 1080 (60i) / 1440 x 1080 (30fps) / hd 1280 x 720 / vga 640 x 480
+full hd 1920 x 1080 / 1440 x 1080 (60i) / 1440 x 1080 (30fps) / hd 1280 x 720 / vga 640 x 480
+modos: filme, smart movie, vinhetas, filtro de filme smart movie: paisagem, ceu azul, verde natural, por-do-sol, formatar: mp4(h.264) (tempo maximo de gravacao: 20 min), tamanho: 1280 x 720 hq, 1280 x 720, 640 x 480, 320 x 240, freq. imagem: 30 fps, 15 fps, voz: mudo, som em directo ligado, som em directo desligado, ois: activ., desact., edicao de video (embutido): pausar durante a gravacao
+edicao: criador de filme criativo; captura de imagem estatica; recorte de temp
+edicao de video (embutido): pausar durante a gravacao, foto de imagem parada
+edicao de video (interna): pausa durante a gravacao, captura de imagens estaticas
+edicao de video (embutido): pausar durante gravacao
+full hd 1920p x 1080p/30 qps; hd: 1280p x 720p/30 qps; iframe® 540: 960x540 / 30 qps; formato de arquivo de video: mpeg-4 avc h.264; tv padrao: 640 x 480/30 qps
+1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 frames /sec.) obs: em todas as resolucoes pode-se usar o zoom optico da camera
+edicao de video (embutido): pausar durante a gravacao, foto de imagem parada
+avchd 1920 x 1080 (60p, 28mbps, ps - 60i, 24mbps, fx - 60i, 17mbps, fh - 24p, 24mbps, fx - 24p, 17mbps, fh) - mp4 1440 x 1080(30fps, 12mbps), vga 640 x 480 (30fps, 3mpbs)
+avchd 1920 x 1080 (60p, 28mbps, ps - 60i, 24mbps, fx - 60i, 17mbps, fh - 24p, 24mbps, fx - 24p, 17mbps, fh) - mp4 1440 x 1080(30fps, 12mbps), vga 640 x 480 (30fps, 3mpbs);
+zoom otico disponivel em video, hdmi, suporte hdmi cec, smart auto em video, video iframe;  botao de gravacao de video, resumo de videos, efeito miniatura em videos
+hdmi, suporte hdmi cec, efeito miniatura em videos
+zoom otico disponivel em video, hdmi, suporte hdmi cec, smart auto em video video iframe; botao de gravacao de video, video em super camera lenta, resumo de videos e efeito miniatura em videos
+zoom otico disponivel em video, hdmi, suporte hdmi, cec, smart auto em video video iframe; botao de gravacao de video, video em super camera lenta, resumo de videos, efeito miniatura em videos, processamento e detalhes em video
+zoom otico disponivel em video  hdmi  suporte hdmi cec smart auto em video video iframe / botao de gravacao de video video em super camera lenta  resumo de videos efeito miniatura em videos  processamento e detalhes em video
+zoom otico disponivel em video; hdmi; suporte hdmi cec; smart auto em video; video iframe: botao de gravacao de video; video em super camera lenta; resumo de videos efeito miniatura em videos
+zoom otico disponivel em video; hdmi; suporte hdmi cec; smart auto em video; video iframe / botao de gravacao de video; video em super camera lenta; resumo de videos; efeito miniatura em videos
+zoom otico disponivel em video; hdmi; suporte hdmi cec; smart auto em video; video iframe / botao de gravacao de video; video em super camera lenta; resumo de videos; efeito; miniatura em videos
+video iframe / botao de gravacao de video efeito miniatura em videos
+video iframe, botao de gravacao de video; efeito miniatura em videos
+1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 frames /sec.) * em todas as resolucoes pode-se usar o zoom optico da camera
+avi movie with sound; 1280 x 720 (30fps,15fps); 640 x 480 (30/15fps); 320 x 240 (30/15fps)
+video (vga e qvga).
+avchd 1920 x 1080 (60i, 24mbps, fx - 60i, 17mbps, fh - 24i, 17mbps, fh - 24p, 24mbps, fx - 24p, 17mbps, fh) - mp4 1440 x 1080(30fps, 12mbps), vga 640 x 480 (30fps, 3mpbs)
+video em definicao hd de 720p melhorado com gravacao expansiva [hd: 30p (29,97) /  25p] e com opcoes de edicao de video na propria camera
+video em alta definicao full hd (1080p) em 24p, 25p e 30p
+(full hd) 1920 x 1080, 24 fps, (hd) 1280 x 720, 30 fps, (l) 640 x 480, 30 fps filme em camera super lenta (l) 640 x 480, 120fps, (m) 320 x 240, 240fps efeito miniatura (hd, l) 6 fps, 3 fps, 1,5 fps filme iframe (hd)
+avi movie with sound; 1280 x 720 (30fps,15fps) 640 x 480 (30/15fps) 320 x 240 (30/15fps)
+ntsc/pal selecionavel com som mono e saida para conector de mini hdmi
+1920 x 1080 pixels, 1280 x 720 pixels,  640 x 480 pixels (30 quadros/seg.) com som estereo. (zoom optico manual pode ser usado).
+avchd format;  full hd fine : 1920(h)x1080(v), 60i recording, 20mbps, aspect 16:9; full hd normal : 1920(h)x1080(v), 60i recording, 17mbps, aspect 16:9; hd fine : 1280(h)x720(v), 60p recording), 17mbps, aspect 16:9; hd normal : 1280(h)x720(v), 60p recording, 13mbps, aspect 16:9 ( taxa de frames e de 30fps.); motion-jpeg format;  hd: 1280(h)x720(v), 30fps; aspect 16:9,  sd: 640(h)x480(v), 30fps (vga)
+avchd 1920x1080 (60p, 28mbps, ps - 60i, 24mbps, fx - 60i, 17mbps, fh - 24p, 24mbps, fx - 24p, 17mbps, fh); mp4 1440x1080 (30fps, 12mbps), vga 640x480 (30fps, 3mpbs)
+ate 25 minutos de filmagem em full hd, zoom durante filmagem, distorcao de fundo e realce de primeiro plano na filmagem, compressao do arquivo de video (h.264), estabilizador de imagem, face detection, smile shutter
+ate 25 minutos de filmagem em full hd, zoom durante filmagem, distorcao de fundo e realce de primeiro plano na filmagem, compressao do arquivo de video (h.264), estabilizador de imagem, face detection, smile shutter.
+1920x1080 pixels, 1280 x 720 pixels (24 quadros/seg. com som estereo). videos individuais nao podem exceder 29 minutos de duracao.
+(full hd 1920x1080) saida hdmi - ntsc / pal selecionavel
+modos: filme, mais magia (pip, filtro de fime) / formato: mp4 (h.264) (tempo maximo gravacao: 20 min) / dimensao: 1280 x 720, 640 x 480, 320 x 240 / freq. imagem: 30fps, 15fps / voz: ativ./desat./zoom mudo / edicao de video (embutido): pausar durante gravacao.
+1920x1080 pixels / 1280x720 pixels / 640x480 pixels (30 frames / seg.) com som estereo
+1280x720 (1,280x720/30fps) / vga(640x480/30fps) / qvga(320x240/30fps)
+1280x720(1,280x720/30fps) / vga(640x480/30fps) / qvga(320x240/30fps)
+filtro inteligente de video: miniatura / vinheta / ponto de meio ton / esboco / olho-de-peixe / classico / retro / efeito palette 1 / efeito palette 2 / efeito palette 3 / efeito palette 4
+1280x720(1,280x720/30fps); vga(640x480/30fps); qvga(320x240/30fps)
+auto, com zoom otico.
+auto. com zoom optico
+auto. com zoom otico
+1280x720(1,280x720/30fps), vga(640x480/30fps), qvga(320x240/30fps)
+1280x720 (1,280x720/30fps) / vga(640x480/30fps) / qvga (320x240/30fps)
+1280x720 (1,280x720/30fps) / vga (640x480/30fps) / qvga (320x240/30fps)
+hd (1280 x 720)
+full hd (1920x1080)
+avchd 60i: 24m fx / 17m fh(1,920x1,080/60i) / 9m hq(1,440x1,080/60i),mp4:12m(1,440x1,080/30fps) / 6m(1,280x720/30fps) /3m vga(640x480/30fps)
+avchd 60i/60p: 28m ps (1,920x1,080/60p) / 24m fx / 17m fh (1,920x1,080/60i) / 9m hq (1,440x1,080/60i), mp4: 12m (1,440x1,080/30fps) / 6m (1,280x720/30fps) / 3m vga (640x480/30fps)
+avchd 1920 x 1080 (60i, 24mbps fx  /  60i, 17mbps fh  /  24p, 24mbps fx  /  24p, 17mbps fh); mp4 1440 x 1080(30fps, 12mbps), vga 640 x 480 (30fps, 3mpbs)
+hd (1280x720)
+full hd 1,920x1,080 / 30 qps  full hd 1,920x1,080 / 25 qps  full hd 1,920x1,080 / 24 qps  hd 1,280x720 / 60 qps  hd 1,280x720 / 50 qps  hd 1,280x720 / 30 qps  hd 1,280x720 / 25 qps.
+full hd
+hd: 1280px720p/30 qps  vga: 640x480 avi (video: compativel com mjpeg)
+full hd: 1920px1080p/30 qps; hd: 1280px720p/30 qps; iframe® 540: 960x540/30 qps; tv padrao: 640x480/30 qps
+full hd: 1920px1080p/30 qps / hd: 1280px720p/30 qps / iframe® 540: 960x540/30 qps / tv padrao: 640x480/30 qps
+avi (video: motion- jpeg, audio: monaural pcm (22.050 khz, 16 bits) / hd: 1280px720p/30 qps / vga: 640x480
+full hd: 1920px1080p/30 qps  hd: 1280px720p/30 qps  hs 1920x1080 / 15 qps  hs 1280x720 / 60 qps  hs 640x480 / 120 qps  hs 320x240 / 240 qps  iframe® 540: 960x540/30 qps  vga: 640x480
+full hd: 1920px1080p/30 qps  hd: 1280px720p/30 qps  hs 1920x1080 / 15 qps  hs 1280x720 / 60 qps  hs 640x480 / 120 qps  hs 320x240 / 240 qps  iframe® 540: 960x540/30 qps  formato de arquivo de video: mpeg;4 avc h.264  vga: 640x480
+sim - simulacao de filme: standard, p&b e sepia. filtro avancado: low key, camera brinquedo, miniatura, cor pop, high key, tom dinamico, cor seletiva, iluminacao criativa, hdr.
+1920x1080, 1920x810, 1280x720, 640x480, 320x240 para compartilhamento.  frame rate: 60fps, 30fps e 24fps (somente na resolucao 1920x1080) e videos 3d somente em 30fps
+1920x1080, 1920x810, 1280x720, 640x480, 320x240 para compartilhamento. resolucao 1920x1080 somente com lentes 3d. frame rate: 30fps e 24fps (somente na resolucao 1920x1080) e utilizando lentes 3d somente em 30fps
+full hd: 1920px1080p/30 qps hd: 1280px720p/30 qps hs 1920x1080 / 15 qps hs 1280x720 / 60 qps hs 640x480 / 120 qps
+full hd: 1920px1080p/30 qps  / hd: 1280px720p/30 qps / hs 1920x1080 / 15 qps / hs 1280x720 / 60 qps /hs 640x480 / 120 qps
+1920x1080i 60 fps
+gravacao de video em 4k (uhd - ultra high definition - 16:9), hd/full hd.
+filmagem hd (1.280 x 720 pixels)
+filmagem full hd (1.920 x 1.080 pixels)
+formatos de video: avchd ver. 2.0 compliant / mpeg-4 avc (h.264) resolucao de video: avchd 1920 x 1080 (60i, 24mbps, fx / 60i, 17mbps, fh / 24p, 24mbps, fx / 24p, 17mbps, fh)  mp4 1440 x 1080(30fps, 12mbps), vga 640 x 480 (30fps, 3mpbs)
+gravacao full hd no formato mp4 e execucao de video em fomato mp4 e wmv
+hd 1280 x 720: 25 fps, 640 x 480: 30 fps (29.97),efeito miniatura hd 1280 x 720: 5 fps*1, 2.5 fps*1, 1.25 fps*1, efeito miniatura 640 x 480: 6 fps*2, 3 fps*2, 1.5 fps*2
+filtro inteligente de video: miniatura / vinheta / ponto de meio ton / esboco / olho-de-peixe / classico / retro / efeito palette 1 / efeito palette 2 / efeito palette 3 / efeito palette 4/ full hd (1920 x 1080p)
+video hd de 1080p: 1920 × 1080; 30 fps; video hd de 960p: 1280 × 960; 30,60 fps 48fps; video hd de 720p: 1280 × 720; 30,60 fps; wvga (camara lenta): 854 × 480; 120,60 fps just 120
+720p (1280x720p) pixels @ 30fps; vga (640x480) pixels @ 60fps
+modo: smart auto, programa, dual is, cena, filme
+resolucao qvga (30 fps); vga (30 fps) e hd (30 fps); funcao equilibrio de branco; qualidade normal e fina
+videos em 4k (uhd - ultra high definition - 16:9) 15 fps grande angular compativel com protune, 2.7k (16:9) 30, 25 e 24 fps grande angular compativel com protune. 1440p (16:9) 48, 30, 25 e 24 fps grande angular compativel com protune. 1080p (16:9) 30, 25, 24 fps grande angular, medio e estreito compativel com protune. 960p (4:3) 48, 30, 25 fps ultra wide fov compativel com protune. 720p (16:9) 60,50,30,25 fps grande angular compativel com protune e wvga (16:9) 120 fps grande angular compativel com protune.
+hd 1280 x 720; vga 640 x 480; qvga 320 x 240
+hd (1280 x 720 fine); hd (1280 x 720 standard); vga (640 x 480)
+quadro magico; beauty shot; retrato inteligente; funny face; noite; paisagem; texto; por sol; nascer sol; luz fundo; praia; neve
+1920x1080, 1920x810, 1280x720 , 640x480, 320x240 (para compartilhamento) 60fps, 30fps, 24fps (somente em resolucao 1920x810), (*3d - somente 30fps)
+1920x1080, 1920x810, 1280x720, 640x480, 320x240 para compartilhamento.  frame rate: 60fps, 30fps e 24fps (somente na resolucao 1920x1080) e videos 3d somente em 30fps.
+30fps: 1920x1080, 1280x720 640x480, 320x240 (para compartilhamento)
+tamanho 3:2: 20m / 10.1m / 5.9m / 2m  tamanho 16:9: 16.9m / 7.8m / 4.9m / 2.1m  tamanho 1:1: 13.3m / 7m / 4m / 1.1m /  modo burst: 5m raw: 20.m
+1920x1080(30fps), 1280x720(60fps), 1280x720(30fps), 640x480(60fps), 640x480(30fps), 320x240(30fps)
+1920x1080, 1280x720 , 640x480, 320x240 (para compartilhamento) taxa de frames: 30fps (ntsc), 25fps (pal)
+hd : 1.280px720p/30 qps, qvga (320x240) e vga (640x480)
+full hd 1080p
+videos em 4k (uhd - ultra high definition - 16:9) 15 fps grande angular compativel com protune, 27k (16:9) 30, 25 e 24 fps grande angular compativel com protune  1440p (16:9) 48, 30, 25 e 24 fps grande angular compativel com protune  1080p (16:9) 30, 25, 24 fps grande angular, medio e estreito compativel com protune  960p (4:3) 48, 30, 25 fps ultra wide fov compativel com protune  720p (16:9) 60,50,30,25 fps grande angular compativel com protune e wvga (16:9) 120 fps grande angular compativel com protune
+sim -hd: 1280px720p/30 qps / qvga (320×240) / qvga 320x240/30p / vga: 640x480/30 qps / vga 640x480/ 25phd: 1280x720/ 25p
+sim -hd: 1280px720p/30 qps / qvga (320×240) / qvga 320x240/30p / vga: 640x480/30 qps / vga 640x480/ 25p / hd: 1280x720/ 25p
+full hd: 1920x1080/ 30p / full hd: 1920x1080/ 25p / full hd: 1920x1080/ 60i / full hd: 1920x1080/ 50i / hd 1280x720/ 30p / hd: 1280x720/ 25p / hs 1920x1080/ 15p / hs 1920x1080/ 12.5p / hs 640x480/ 120p / hs 1280x720/ 60p / hs 1280x720/ 50p / hs 320x240/ 240p / iframe 720/ 30p / iframe 720/ 25p / vga 640x480/ 30p / vga 640x480/ 25p
+full hd: 1920px1080p/ 30 qps / full hd: 1920x1080/ 60i / hd: 1280px720p/30 qps / hs 1920x1080/ 15 qps / hs 1280x720 / 60 qps / hs 640x480/ 120 qps / hs 320x240/ 240 qps / iframe® 540: 1280x720 / 30 qps / vga: 640x480/30 qps
+full hd: 1920x1080/ 30p / full hd: 1920x1080/ 25p / full hd: 1920x1080/ 60i / full hd: 1920x1080/ 50i / hd 1280x720/ 30p / hd: 1280x720/ 25p / hs 1920x1080/ 15p / hs 1920x1080/ 12.5p / hs 640x480/ 120p / hs 640x480/ 100p / hs 1280x720/ 60p / hs 1280x720/ 50p / iframe 720/ 30p / iframe 720/ 25p / vga 640x480/ 30p / vga 640x480/ 25p
+full hd: 1920x1080/ 30p / vga 640x480/ 30p / vga 640x480/ 15p
+mov compressao: codificacao avancada de video h.264/mpeg-4 / formato: pcm linear / hd 1,920x1,080 / 60 qps / hd 1,920x1,080 / 50 qps / full hd 1,920x1,080 / 30 qps / full hd 1,920x1,080 / 25 qps / full hd 1,920x1,080 / 24 qps / hd 1,280x720 / 60 qps / hd 1,280x720 / 50 qps / vga 640x424 / 30 qps / vga 640x424 / 25 qps
+full hd (1920 x 1080)
+sim
+nao se aplica
+fullhd 1080p a 25/30 fps, 960p a 25/30fps, 720p a 25/30/50/60fps

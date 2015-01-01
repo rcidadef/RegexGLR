@@ -1,0 +1,3 @@
+sim
+nao
+bluetooth v3.0

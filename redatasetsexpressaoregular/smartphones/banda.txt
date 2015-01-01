@@ -1,0 +1,68 @@
+gsm triband 900/1800/1900 mhz; mts 2100mhz
+hsdpa/umts; tri-band umts: 850mhz, 1900mhz, 2100mhz; quad-band gsm: 850mhz, 900mhz, 1800mhz, 1900mhz
+(mhz): 850,900,1800,1900
+quad-band 850/900/1800/1900 mhz redes gsm/gprs e quad-band 850/900/1800/1900 mhz rede edge
+gsm - 850/900/1800/1900mhz.
+quad-band: 850/900/1800/1900mhz gsm/gprs/rede edgesingle-band: redes 2100 mhz umts/hspadual-band: redes 800/1900 mhz cdma/evdo rev a
+quadband - 850/900/1800/1900mhz
+quad-band (850/9000/1800/1900) mhz
+terminal gsm dual_band (900/1800) ou (850/1900) mhz
+compativel com 3g (hsdpa); frequencia: umts: 2100/1900/850/800 mhz (bandas 1,2,5/6), 2100/1700/900 mhz (bandas 1,4,8) - suporte a banda quadrupla gsm: 1900/1800/900/850 mhz - (roaming internacional em todo o mundo)
+todas
+todas (850/900/1900/2100 mhz)
+egsm 900/gsm, 1800/gsm e 850/gsm
+quad-band gsm (850/900/1800/1900 mhz) (roaming internacional em todo o mundo).
+quad-band digital gsm 850/900/1800/1900 mhz (roaming internacional em todo o mundo).
+900/1800
+todos
+quad-band gsm (850/900/1800/1900 mhz) / wcdma (3g) 850/2100 mhz / hsdpa 7.2 mbps (roaming internacional em todo o mundo)
+quadri band
+wcdma 850/1900/2100 - gms 850/900/1800/1900
+wcdma 850/900/1900/2100, gsm 850/900/1800/1900, lte band 2(1900)/4(aws)/5(850)/7(2600)/17(700)
+quadribanda 850 / 900 / 1800 / 1900 mhz
+edge - frequencia: umts: 2100/1900/850/800 mhz (bandas 1,2,5/6), 2100/1700/900 mhz (bandas 1,4,8) - suporte a banda quadrupla gsm: 1900/1800/900/850 mhz - (roaming internacional em todo o mundo)
+quadriband gsm/edge - 850/900/1800/1900 mhz
+quadribanda gsm 850/900/1800/1900
+quad band (850 + 900 + 1800 + 1900 mhz)
+quad-band, 850/900/1800/1900 mhz
+gsm quadriband:  850/900/1800/1900mhz; hsdpa 850/1900/2100/800mhz.
+gsm/gprs/edge 850/900/1800/1900 mhz
+(800 / 850) / 1900 / 2100 mhz
+todos 850/900/1800/1900 mhz
+quadband (850/900/1800/1900 mhz)
+900 mhz,gsm 1800 mhz,gsm 1900 mhz
+quad-band (850/9000/1800/1900) mhz
+850/900/1800/1900 mhz
+gsm 850 ,900 ,1800 ,1900 umts 850 ,1900 ,2100 ,1700 ,900
+gsm 850/900/1800/1900 - 3g 850/900/1900/2100 - lte 2600
+902 mhz,gsm 1800 mhz,gsm 1900 mhz
+gsm 850/900/1800/1900 - 3g 850/900/1900/2100
+hsdpa 850 / 900 / 1900 / 2100
+terminal gsm quad (850/900/1800/1900); terminal 3g dual band (850/2100)
+terminal gsm quad (850/900/1800/1900) terminal 3g dual band (850/2100)
+terminal gsm1 quad (850/900/1800/1900); terminal 3g dual band (850/2100)
+terminal gsm1 quad (850/900/1800/1900) terminal 3g dual band (850/2100)
+gsm
+terminal gsm quad (850/900/1800/1900);terminal 3g dual band (850, 900, 1700, 1900, 2100); hspa+ 42banda
+900 mhz, gsm 1800 mhz, gsm 1900 mhz
+gsm 850/900/1800/1900 - 3g  850/1900/2100 mhz
+gsm 850 / 900 / 1800 / 1900
+quadriband
+quad-band gsm 850 / 900 / 1800 / 1900 mhz
+"terminal gsm1 quad (850/900/1800/1900) terminal gsm2 quad (850/900/1800/1900) terminal gsm3 quad (850/900/1800/1900) terminal 3g dual band (850/2100) "
+terminal gsm quad (850/900/1800/1900) terminal gsm 2 quad (850/900/1800/1900) terminal 3g quad (850/900/1900/2100
+900 mhz;gsm 1800 mhz;gsm 1900 mhz
+gsm 850/900/1800/1900 wcdma 850/900/1900/2100
+gsm 850 ,900 ,1800 ,1900 umts 850 ,1900 ,2100 ,900
+gsm 850 ,900 ,1800 ,1900 umts 850 ,1900 ,2100
+gsm quad (850/900/1800/1900) terminal 3g dual band (850/2100)
+gsm 850/900/1800/1900 mhz
+terminal gsm1 quad (850/900/1800/1900) terminal gsm2 quad (850/900/1800/1900) terminal gsm3 quad (850/900/1800/1900) terminal 3g dual band (850/2100)
+3g: hsdpa 850 / 900 / 1900 / 2100     4g: 800 / 850 / 900 / 1800 / 2100 / 2600
+3g: hsdpa 850 / 900 / 1900 / 2100 e 4g: 800 / 850 / 900 / 1800 / 2100 / 2600
+2g quad band
+quad band
+chamada da operadora - celular avulso. necessario o chip sim card (nao incluso) para habilitacao. este aparelho ja esta pre-configurado para habilitacao nas seguintes operadoras gsm nacional (tim, claro, oi, vivo gsm, brasil telecom, telemig(mg), amazonia celular, ctbc, sercomtel)
+terminal gsm1 quad (850/900/1800/1900) / terminal 3g dual band (850/2100)
+gsm: 850 / 900 / 1800 / 1900 e     3g: hspa 850  / 900 / 1900 / 2100
+terminal gsm quad (850/900/1800/1900), terminal 3g dual band (850/2100)

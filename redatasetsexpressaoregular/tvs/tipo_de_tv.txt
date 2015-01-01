@@ -1,0 +1,4 @@
+lcd
+plasma
+led
+tv monitor

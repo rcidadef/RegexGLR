@@ -1,0 +1,169 @@
+2 seg, 10 seg e duplo
+mais rapida: 1/8000 s1/3 1/2 1; mais lenta: 30 s1/3 1/2 1; tipo: plano focal de percurso vertical controlado eletronicamente
+smart auto : 8 ~ 1/2,000 s, programa : 1 ~ 1/2,000 s, noite : 8 ~ 1/2,000 s, fogo artificio : 2 s
+auto: 1/4000 s a 30 s; manual: 1/4000 s a 30 s (incrementos de 1/3 ev) ; lampada (limite de tempo: 8 min)
+iauto(2" - 1/1,600) / program auto (1" - 1/1,600)
+smart auto: 1/8-1/2000 seg. programa: 1-1/2000 seg. fotografia noturna: 8-1/2000 seg.
+smart auto: 8 - 1/2000 s programa: 1 - 1/2000 s noite: 8 - 1/2000 s
+smart auto: 1/8-1/2000 seg. programa: 1-1/2000 seg. noite: 8-1/2000 seg. fogo artificio: 2 seg
+smart auto: 8 - 1/2000 s programa: 1 - 1/2000 s noite: 8 - 1/2000 s.
+smart auto: 1/8-1/2000 seg. programa: 1-1/2000 seg. noite: 8-1/2000 seg. fogo artificio: 2 seg.
+15-1/1600s.
+60 - 1/2000 seg. lampada: ate 30 min. (tempo mais longo selecionavel no menu. padrao: 8 min.); passos de 1/3, 1/2, ou 1 ev, selecionavel.
+1/2 - 1/2000 seg. / < 4 seg. (cena luz de vela)
+iauto (2" - 1/1,600) / program auto (1" - 1/1,600)
+iauto (2" - 1/1600) / program auto (1" - 1/1600)
+iauto (2" - 1/1600) / program auto (1" - 1/1600).
+iauto(2" - 1/1,600) / program auto(1" - 1/1,600) / manual(30"-1/1600)
+1/1000-1 s (quando a sensibilidade iso estiver definida como automatica) 1/4000-1/60 s (modo de esporte continuo) 4 s (quando o modo de cena estiver definido como exib. fogos de artificio)
+1/2000-1 s (quando a sensibilidade iso estiver definida como automatica) 4 s (quando o modo de cena estiver definido como exib. fogos de artificio)
+de 1/4.000 s a 30 s em etapas de 1/3 ev lampada
+(modo auto) 1/4 seg. a 1/1800 seg.
+4 a 1/2000 segundos (manual - 30 seg)
+nao informado pelo fornecedor
+(modo auto) 1/4 seg. a 1/1800 seg. (todos os outros modos) 8 seg. a 1/1800 seg.
+1/2000-8 s, 1/4000-1/15s (durante o disparo continuo de alta velocidade)
+15-1/2000 seg
+1/8 1/2,000s (auto); 11 /2,000s (programa); 8 1/2,000 s (noite); 2s (fogos de artificio)
+f3.5 1/90s
+1/4 - 1/2000 seg. / < 4 seg..
+1/2 - 1/2000 seg. / < 4 seg. (cena luz de vela).
+aprox. 8 - 1/1600 sec
+5.5 fps
+smart auto: 8 - 1/2000s; programa: 1 ~-1/2000s; noite: 8 - 1/2000s; fogo artificio: 2s
+smart auto: 1/8-1/2000 seg. / programa: 1-1/2000 seg. / fotografia noturna: 16-1/2000 seg. (aeb, continuo : 1/4-1/2000 seg.)
+i5 - i/4000 seg.
+still: approx. 8-1/1600 sec-starry sky mode: 15, 30, 60sec.
+still: aprox. 60 - 1/4000 seg
+still: aprox. 8 - 1/1300 seg - starry sky mode: 15, 30, 60 seg
+1/4 - 1/2000 seg. / < 4 seg.
+(modo auto) 1/4 seg. a 1/2000 seg. (todos os outros modos) 8 seg. a 1/2000 seg.
+(modo auto) 1/4 seg. a 1/1200 seg. (todos os outros modos) 4 seg. a 1/2000 seg.
+smart auto: 1/8 - 1/2000 s programa: 1 - 1/2000 s noite: 8 - 1/2000 s
+auto: 1/4000-30 seg. manual: 1/4000-30 seg. (1/3 ou 1/2 etapa de ev)  bulb (limite de tempo: 8 min)
+auto: 1/8 - 1/2 000 seg.;  programa: 1 - 1/2 000 seg. ; noite: 8 - 1/2 000 seg.
+automatico
+iauto (2" - 1/1,500) / program auto (1" - 1/1,500)
+obturador eletronico: 1/16,000 s em incrementos de 1/3ev obturador mecanico: 1/4,000 s em incrementos de 1/3ev
+12 fps
+10 fps
+(modo auto) 1/4 seg. a 1/4000* seg. (todos os outros modos) 30 seg. a 1/4000* seg. *1/4000 seg. na menor abertura; 1/1000 seg. na abertura total
+iauto(4" - 1/1,600) / program auto(1" - 1/1,600)
+auto: 1/8 -1/2 000 seg; programa: 1-1/2 000 seg; manual: 16-1/2 000 seg; noite: 8-1/2 000 seg.
+(modo auto) 1/4 seg. a 1/4000 seg.; (todos os outros modos) 30 seg. a 1/4000 seg. (disparador mecanico e eletronico combinados)
+1/2000 - 1 s (quando a sensibilidade iso estiver definida como automatica) 4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+(modo auto) 1/4 seg.  a 1/2000 seg. (outros modos) 8 seg. para 1/2000 seg.
+auto: 1/8 -1/2 000 seg; programa: 1- 1/2 000 seg; manual: 16- 1/2 000 seg.; noite: 8 -1/2 000 seg.
+auto: 1/4 000-30 seg;  manual: 1/4 000-30 seg. (1/3 etapa de ev); bulb (limite de tempo: 4 min).
+auto: 1/8-1/2 000 seg; programa: 1-1/2 000 seg; noite: 16-1/2 000 seg. e fogo artificio: 2 seg.
+1/1500 - 1 s (quando a sensibilidade iso estiver definida como automatica) 4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+(modo auto) 1/4 seg. a 1/2000 seg. (todos os outros modos) 8 seg. a 1/2000 seg
+automatica
+1/2000 - 1 s (quando a sensibilidade iso estiver definida como automatica) ; 4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+1/2000 - 1 s (quando a sensibilidade iso estiver definida como automatica); 4 s (quando o modo de cena estiver definido como show de fogos de artificio).
+1/2000 - 1/2 s: manual em iso 3.200, 1/2000 - 1 s: manual, 1/2000 - 1 s: automatico (iso 100 a 1.600) (quando a sensibilidade iso estiver definida como automatica), 1/2000 - 1 s: manual em iso 1.600, 1/2000 - 2 s: manual em iso 800 e 1/2000 - 4 s: manual em iso 100, iso 200, iso 400
+1/2000 - 1/2 s: manual em iso 3.200, 1/2000 - 1 s: manual, 1/2000 - 1 s: automatico (iso 100 a 1.600) (quando a sensibilidade iso estiver definida como automatica), 1/2000 - 1 s: manual em iso 1.600, 1/2000 - 2 s: manual em iso 800 e 1/2000 - 4 s: manual em iso 100, iso 200, iso 400 .
+1/1000 - 1 s (quando a sensibilidade iso estiver definida como automatica), 4 s (quando o modo de cena estiver definido como show de fogos de artificio).
+smart auto: 1/8-1/2000 seg., programa: 1-1/2000 seg., fotografia noturna: 16-1/2000 seg. (aeb, continuo: 1/4-1/2000 seg.)
+smart auto: 1/8 - 1/2000 seg; programa: 1 - 1/2000 seg; noite: 8 - 1/2000 seg; manual: 16 - 1/2000 seg; exposicao; controle; programa ae
+smart auto: 8 1/2 000 seg, programa: 1-1/2 000 seg, noite: 8-1/2 000 seg
+smart auto: 8-1/2 000 seg, programa: 1-1/2 000 seg, noite: 8-1/2 000 seg
+smart auto: 1/8 - 1/2000 s, programa: 1 - 1/2000 s, noite: 8  1/2000 s
+smart auto: 1/8-1/2000 seg., programa: 1-1/2000 seg., noite: 16-1/2000 seg
+(auto mode) 1/4 sec. a 1/2000 sec. , (outros modos) 8 sec. a 1/2000 sec. (com obturador mecanico)
+smart auto: 8/ 1/2 000 segundos; programa: 1/ 1/2 000 segundos; noite: 8/ 1/2 000 segundos
+fotos: 1/4000 ate 30" / bulb
+1/4000 ate 30" / bulb
+velocidade de disparo:  1-1/4000 seg. 60-1/4000 seg. (intervalo total de velocidade do obturador)
+velocidade: 15 - 1/4000 seg
+velocidade: 1-1/2000 seg.
+1-1/2000 seg
+velocidade: 1-1/3200 seg
+1-1/3200 seg
+1-1/2500 seg.
+15-1/4000 seg
+15-1/4000 seg.
+1 - 1/2000 seg
+1 - 1/2000 seg.
+obturador eletronico (auto: 1/4 seg p/1/2000 seg./todos os modos: 8 seg p/1/2000 seg
+0.5 a 1/2.000 segundos
+4 a 1/2000 seg (manual: 30 seg)
+4 a 1/2000 seg (manual : 30 seg)
+1/30 seg. a 1/4000 seg.
+1/30 seg. a 1/8000 seg.
+1 ¿ 1/1600 seg. (predefinicao de fabrica)  15 ¿ 1/1600 seg. (alcance total - varia consoante o modo de disparo)
+4 a 1/2.000 segundos
+(modo auto) 1/4seg. para 1/4000 seg (todos os outros modos) 30 seg. para 1/4000sec. (combinado obturador mecanico e eletronico)
+(modo auto) 1/4 seg. a 1/4000 seg. (todos os outros modos) 30 seg. a 1/4000 segundos
+60" - 1/4000
+fotos: 1/8000 ate 30s bulb; filmes: 1/8000 ate 1/4 (1/3 step), acima de  1/60 em modo auto (acima de 1/30 em modo auto slow shutter)
+auto: 1/4 000-30 seg. / manual: 1/4 000-30 seg. (1/3 etapa de ev) / bulb (limite de tempo: 4 min)
+(modo p) 1/4 seg. a 1/4000 segundos; (todos os outros modos) 30 seg. a 1/4000 seg.  tempo 2 a 30 seg.; velocidade do obturador sincronizado para flash: 1/180 seg ou mais lento (p modo ou modo a), 1/160 seg ou mais lento (modo s ou m mode); * 1/180 seg pode ser definido automaticamente em algumas condicoes de disparo em modo p ou a modalidade.
+diafragmatico - (modo auto) 1/4seg. para 1/2000seg.
+1/1000s
+automatico: 1/8-1/2,000 seg. / programa: 1-1/2,000 seg. / noite: 8-1/2,000 seg.
+(modo auto) 1/4 seg. a 1/2000 seg *, (todos os outros modos) 30 seg. a 1/2000 seg *.  1/1000 seg. a abertura total
+iauto (2" - 1/2000) / program auto (2" - 1/2000)
+iauto(2" - 1/1600) / program auto(1" - 1/1600)
+iauto(2" - 1/2000) / program auto(2" - 1/2000)
+smart auto: 1/8¿1/2 000 seg. / programa: 1¿1/2 000 seg. / noite: 16¿1/2 000 seg. / fogos artificio: 2seg. programa: 1-1/2,000 seg. noite: 8-1/2,000 seg.
+smart auto: 1/8¿1/2 000 seg. / programa: 1¿1/2 000 seg. / noite: 16¿1/2 000 seg. / fogos artificio: 2seg. / programa: 1-1/2,000 seg. / noite: 8-1/2,000 seg.
+auto: 1/8-1/2,000 seg. / program: 1-1/2,000 seg. / night: 16-1/2,000 seg. / fogos de artificio: 2 seg.
+auto: 1/8-1/2,000 seg. / program: 1-1/2,000 seg. / night: 16-1/2,000 seg.
+iauto(4" - 1/1600) / program auto(1" - 1/1600)
+auto, 1/4s a 1/2000s (todos modos); 8s a 1/2000s (obturador mecanico)
+auto, 1/4s a 1/1700s (todos modos); 8s a 1/1700s (obturador mecanico)
+iauto(4" - 1/1600) e program auto(1" - 1/1600)
+iauto (4" - 1/1600) / program auto (1" - 1/1600)
+1 1/3200 seg. (predefinicao de fabrica)  15 ¿ 1/3200 seg. (alcance total)
+1 - 1/3200 seg. (predefinicao de fabrica)  15  -1/3200 seg. (alcance total)
+1-1/2000 seg. a 15-1/2000 seg
+iauto (4 - 1/4000) / program auto (1 - 1/4000) / aperture priority (8 - 1/2000) / shutter priority (30 - 1/4000) / manual (30 - 1/4000)
+iauto (4 - 1/1600) / program auto (1 - 1/1600) / aperture priority (8 - 1/1600) / shutter priority (30 - 1/1600) / manual (30 - 1/1600)
+de 1/4000 a 30s e modo bulb *vel max de disparo e 5.5 quadros por segundo
+1-1/4000 seg.
+1/2000 - 1 s  4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+1/1500 - 1 s  4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+1/1500 - 1 s; 1/1600s (velocidade maxima durante disparos em alta velocidade continua); 4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+1/1500 - 1 s  4 s (quando o modo de cena estiver definido como show de fogos de artificio)  1/4000 - 1/120 s (h continuo: 120 qps)  1/4000- 1/60 s (h continuo: 60 qps)
+auto mode: 1/4 - 1/1700seg
+auto mode. 1/4 - 1/2000 seg
+auto: 1/6000-30seg. / manual: 1/6000-30seg. (1/3 etapa de ev) / bulb (limite de tempo: 4min)
+"1/1500 - 1 s  4 s (quando o modo de cena estiver definido como show de fogos de artificio)"
+1/1500 - 1 s  / 4 s (quando o modo de cena estiver definido como show de fogos de artificio)
+100% automaticos
+1/2000
+1/2000 seg a 30 segundos
+16/01/2000
+1-1/2000 seg. , 15-1 seg. (velocidade total do obturador)
+auto: 1/8-1/2,000 seg - program: 1-1/2,000 seg - night: 16-1/2,000 seg
+auto: 1/8-1/2,000 seg;program: 1-1/2,000 seg; night: 16-1/2,000 seg; fogos de artificio: 2 seg
+1/2,3''
+iauto (2" - 1/1,500) / program auto (1" - 1/1,500) / manual (30'' - 1/1,500)
+1 - 1/3200 seg
+pode ser ajustada com o temporizador, ou tira foto na mesma hora em que aperta, temporiza de 2 a 10 segundos
+auto: 1/8-1/2,000 seg. / program: 1-1/2,000 seg. / night: 16-1/2,000 seg. / fogos de artificio: 2 seg
+8~1/2000 segundos
+1 ¿ 1/2000 seg.
+smart auto: 1/8-1/2 000 segundos / programa: 1-1/2 000 segundos / noite: 8-1/2 000 segundos
+auto: 1/8000- 1/4seg. (efs disponivel) manual: 1/8000-30seg. (efs disponivel) - (1/3 etapa de ev) / bulb (limite de tempo: 4min)
+auto: 1/16000-30seg. / manual: 1/16000-30seg. (1/3 etapa de ev) / bulb (limite de tempo: 4min)
+auto: 1/8000-1/2000 seg. / manual: 1/6000-1/2000seg.
+auto: 1/8000-1/2000 seg. / manual: 1/6000-1/2000seg
+auto: 1/4000sec. ~ 30sec. manual 1/4000sec. ~ 30sec. (etapa de ev 1/3)
+auto: 1/4000sec. ~ 30sec. manual -1/4000sec. ~ 30sec. (etapa de ev 1/3)
+auto: 1/8-1/2,000 segundos - program: 1-1/2,000 segundos - night: 16-1/2,000 segundos
+1-1/6000 segundos a 15-1/6000 segundos
+1 ¿ 1/3200 segundos (predefinicao de fabrica)  15 ¿ 1/3200 segundos (alcance total)
+obturador eletronico ccd e mecanico (velocidade 1/2000 a 1s), 4 segundos (quando o modo de cena estiver definido como show de fogos de artificio)
+1/1400
+obturador eletronico ccd e mecanico/ ate 6 disparos de aprox 1,1 quadros por segundo
+obturador mecanico-eletronico cmos/ ate 5 disparos de aprox 6.9 quadros por segundo
+obturador mecanico-eletronico cmos/ ate 5 disparos de aprox 6.7 quadros por segundo
+obturador mecanico-eletronico cmos/ate 7 disparos de aprox 7 quadros por segundo
+obturador mecanico-eletronico cmos/ate 11 disparos de aprox 4.7 quadros por segundo
+plano focal de percurso vertical controlado eletronicamente/ ch: ate 5 quadros por segundo/cl: ate 1-3 quadros por segundo
+30 ¿ 1/4000 seg
+30 - 1/4000 seg.
+1/30 - 1/4000 seg.
+obturador mecanico-eletronico cmos/ate 5 disparos de aproximadamente 6.9 frames por segundo

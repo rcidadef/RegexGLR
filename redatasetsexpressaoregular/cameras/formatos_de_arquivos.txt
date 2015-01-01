@@ -1,0 +1,88 @@
+jpeg
+.raw,jpeg
+.jpg
+.avi,.wav,dcf,dpof 1.1,exif 2.21,jpeg,mjpeg,pictbridge 1.0
+.raw,dpof,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi
+.jpg,.mp4,.mpeg,.wav
+.avi,.wav,dcf,dpof 1.1,exif 2.21,pictbridge 1.0
+.avi,dcf,dpof 1.1,exif 2.21,jpeg,mjpeg,pictbridge 1.0
+.avi,.wav,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi,.wav,dcf,dpof 1.1,exif 2.21,exif 2.2 (jpeg),jpeg,pictbridge 1.0
+.avi,.jpg,.raw
+.avi,jpeg
+exif 2.2 (jpeg),jpeg,mjpeg,quick time motion jpeg
+.wav,jpeg
+.jpg,.wav
+.avi,jpeg,wave (monoaural)
+jpeg,quick time motion jpeg
+.mov,.wav,jpeg
+.mp4,jpeg
+.avi,.jpg
+.avi,.jpg,mjpeg
+.avchd,jpeg
+.avi,.jpg,.wav
+.jpg,.mp4
+.avi,exif 2.21,jpeg
+.avchd,.jpg
+.jpg,.mov,.wav
+.jpg,.pic,.raw
+.mp4,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi,.jpg,.mov
+.avchd,.mp4,.mpeg,aac estereo,jpeg
+.jpg,.mp4,.mpeg
+.jpg,.mov
+.raw,mjpeg
+.mpeg
+.jpg,jpeg
+dcf,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.raw,dcf,dpof 1.1,jpeg,pictbridge 1.0
+exif 2.2 (jpeg),g.711 (audio),quick time motion jpeg,wave (monoaural)
+.gif,.mp4,avch.264,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi,.wav,jpeg
+.mov,.mpeg,aac estereo,jpeg
+.mov,.mpeg,aac estereo,avch.264,jpeg
+.mov,.mpeg,.wav,aac estereo,avch.264,jpeg
+.avchd,.mp4,.mpeg,avch.264,jpeg
+.avchd,.mp4,avch.264,jpeg,mpge-4
+.avchd,.mp4,jpeg
+.mp4,.mpeg,aac estereo,dcf,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.mp4,.mpeg,aac estereo,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi,dpof 1.1,exif 2.21,jpeg,mjpeg
+.gif,.mp4,.mpeg,aac estereo,dpof 1.1,exif 2.21,jpeg,pictbridge 1.0
+.avi,dpof,exif ver 2.3,jpeg,quick time motion jpeg
+avch.264,jpeg
+.mp4,.raw,dcf,exif ver 2.3,jpeg,vga
+.mov,.raw,jpeg
+.mov,jpeg
+.mov,jpeg,qvga,vga
+.mov,exif 2.2 (jpeg),jpeg,qvga,vga
+.avchd,.mp4,.raw,jpeg
+.jpg,.mov,.raw
+.avchd
+.avchd,.jpg,.mp4,.raw
+.raw,exif ver 2.3,jpeg
+.avi,.raw,dcf,jpeg
+.avchd,.mp4
+dcf,dpof 1.1,exif 2.2 (jpeg),pictbridge 1.0
+.raw,avch.264,jpeg
+.mp4,aac estereo,dpof 1.1,exif 2.21,jpeg
+.mp4,.raw,jpeg
+.mp4,avch.264,jpeg
+.gif,dpof 1.1,exif 2.21,jpeg
+.mp4,.mpeg,jpeg
+.mp4,avchd ver2.0,jpeg,mpf (3d)
+.mov,.wav,aac estereo,jpeg,mpf (3d)
+.mov,.wav,jpeg,mpf (3d)
+.mp4,.raw,dcf,dpof 1.1,jpeg
+.mov,.wav,aac estereo,jpeg,mpge-4
+.bmp,.gif,.jpg,.mp3,.mp4,aac estereo
+.mp4
+jpeg e mp4 h264
+.raw
+aac estereo
+exif 2.2 (jpeg),jpeg
+.mov,jpeg,vga
+jpeg,mpeg4
+full hd: 1920x1080/ 60i
+micro sd

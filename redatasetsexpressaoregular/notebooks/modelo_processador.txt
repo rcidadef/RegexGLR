@@ -1,0 +1,99 @@
+core i3 350m
+core i3 330m
+pentium dual core
+pentium dual core t4500
+i5 460m
+core i3
+pentium dual core p6000
+i5 480m
+core i5 480m
+dual-core e350
+fusion dual core e-350
+core i3 370m
+core i5 2410m 2ª geracao
+2410m
+450m
+core i7 740qm
+480m
+core i5
+370m
+dual core
+pentium dual core p6200
+athlon x2 dual core
+i5 2410
+2410m 2ª geracao
+core i7 2630qm 2ª geracao
+t3300
+core 2 duo t6600
+dual core p320
+core i7
+pentium dual core t4300
+dual core e-450
+core i7 620m
+i5-2430m
+core i3-2310m
+i5 2450m
+core i3 2ª geracao 2350m
+quad core
+dual core d2500
+core i3 2310
+pentium b940
+2620m
+2670qm
+core i5 2410m
+2450m
+t4500
+d2500
+2310m
+3210m
+2330m
+a6-4400m
+e-300
+2328m
+b820
+3110m
+3630qm
+b830
+2367m
+2370m
+3632qm
+3517u
+3520m
+fusion c-60
+b987
+3317u
+b980
+b800
+2365m
+b970
+3610qm
+3230m
+3217u
+2348m
+amd (brazos) dual core
+847
+(brazos) dual core c-series
+3337u
+c70
+e1-1500
+3635qm
+1007u
+vision dual core c-60
+3612qm
+4200u
+4500u
+4005u
+celeron
+4200
+4500
+2375m
+4700mq
+1017u
+3227u
+e1-2100
+bay trail n2920
+(brazos) dual core
+amd quad-core
+3537u
+bay trail n2806
+4210u

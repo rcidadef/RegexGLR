@@ -1,0 +1,13 @@
+1ghz
+1900mhz
+1.7ghz
+600 mhz
+a4
+1.4ghz
+1.2 ghz
+800 mhz
+1.5 ghz
+2ghz
+2.3ghz
+2.5 ghz
+1.3ghz

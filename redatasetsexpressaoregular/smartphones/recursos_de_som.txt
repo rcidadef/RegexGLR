@@ -1,0 +1,84 @@
+nao informado pelo fornecedor
+windows media player
+mp3
+formatos: aac-lc, aac+, eaac+, amr-nb, wma9 .wma/.asf), wma9 pro/wma 10, aac-lc
+mp3 player.
+som estereo (a2dp/avcrp)
+reproducao de audio e integracao com itunes;  formatos de audio suportados: aac (8 a 320 kbps), aac protegido (do itunes store), he-aac, mp3 (8 a 320 kbps), mp3 vbr, audible (formatos 2, 3, 4, audible enhanced audio, aax, e aax+), apple lossless, aiff e wav;  limite maximo de volume configuravel pelo usuario;  resposta de frequencia: 20hz a 20.000hz.
+mp3 player
+toques mp3; modo vibratorio; tocador de musica.
+nao se aplica
+radio fm (87,5-108 mhz/76-90 mhz) com gravacao de radio* (* a gravacao do radio nao esta disponivel em algumas areas)
+mp3 player e radio fm.
+radio fm.
+gravador de som - faca anotacoes de voz ou envie uma mensagem com som trackid - reconhecimento de musica.  grave alguns segundos de uma musica e receba as informacoes sobre o nome da faixa, artista e album no telefone em segundos. aceita tons musicais - mp3, aac. use gravacoes originais dos artistas como toques. bluetooth estereo (a2dp). musica do telefone para o fone de ouvido com conexao sem fio. playnow. faca o download de musica e jogos para o seu celular. walkman player. curta suas musicas favoritas organizadas por artista, album e faixa. crie suas proprias listas de reproducao.
+entrada de audio de 3,5 mm;  suporta toques musicais - mp3, aac;  capa do album;  estereo bluetooth (a2dp); leitor de musica da sony; trackid - reconhecimento de musica.
+music player de mp3, aac, aac+, eaac+, wma; conector padrao 3.5mm; music store 3.0; real media player; central de videos; radio de internet; radio fm estereo (87,5-108 mhz/76-90 mhz) com fone de ouvido como antena.
+tecnologia 3d de som
+media player com tags id3 de metadados e suporte para arte de capa; acesso ao ovi musica direto do aparelho; codecs de musica: mp3, aac, eaac, eaac+ e wma; suporte para bluetooth estereo 2.1; tema personalizavel do media player; drm 2.0; radio fm estereo (87,5-108 mhz/76-90 mhz); suporte para rds - receba informacoes da estacao na tela; tema de radio personalizavel
+media player; codecs de musica: mp3, aac, aac+, eaac+ e wma; suporte para bluetooth estereo 2.1; radio fm estereo rds (87,5 a 108 mhz); conector av de 3,5 mm.
+mp3, conector padrao 3.5mm; radio de internet
+3gp, mp3, wma9 (.wma/.asf), wma9 pro/wma 10, midi, amr-nota, professional aac/aac / eaac +
+leitor de musicas;  biblioteca de musica; tecnologia de som 3d dnse; conector padrao 3.5mm e radio fm com rds.
+android media player; conector 3.5mm;  sintonizacao de radio fm com rds;  formatos para reproducao: aac, wma v10, wma v9, aac+ enhanced, amr nb, aac+, wav.
+conector 3.5mm; nokia music player; music recommender; ovi musica; codecs de musica: mp3, wma, aac, aac+, eaac, eaac+; tags id3 de metadados de musica e arte de capa; taxa de bits de ate 320 kbps; suporte para wm drm, oma drm 2.0/1.0; radio fm estereo (87,5-108 mhz/76-90 mhz), rds.
+biblioteca de musicas;  tecnologia de som 3d; conector padrao 3.5 mm; reproducao dos formatos: amr-nb / amr-wb, aac e mp3"
+music player; formatos compativeis: mp3/wav/eaac+;  radio fm com rds
+sony music player - curta suas musicas favoritas, organizadas por artista, album e musica. suporte a reproducao aleatoria e a listas de reproducao inteligentes;  trackid - reconhecimento de musica;  playnow - download de musicas e jogos para seu celular;  bluetooth estereo (a2dp);  conector padrao 3.5 mm  capas do album;  radio fm com rds.
+music player;  hub de musica alimentado pelo zune permite ouvir musica, fazer downloads e muito mais;  som surround srs;  radio fm com rds;  conector de som estereo de 3,5 mm;  a2dp para fones sem fio;  formatos suportados: mp3/wav/wma/eaac+.
+3gp2, .m4v, .avi, .wmv, .wma, .mp3, .flac, .ogg, .aac, .amr, .wav, .mid musica, video, fotos, podcasts, toques, notas de voz, camera, camera de video, gravador de notas de voz
+m4v, avi, wmv, wma, mp3, flac, ogg, aac, amr, wav, mid
+musica, video, fotos, podcasts, toques, notas de voz, camera, camera de video, gravador de notas de voz, you tube
+resposta de frequencia: 20hz a 20.000hz, formatos de audio compativeis: aac (8 a 320 kbps), aac protegido (da itunes store), he-aac, mp3 (8 a 320 kbps), mp3 vbr, audible (formatos 2, 3, 4, audible enhanced audio, aax, e aax+), apple lossless, aiff e wav
+aac de gravacao de audio estereo; 48khz -streaming de audio; cancelamento de ruido ativo; viva-voz; bluetooth estereo; music player; radio fm;
+mp3 player e toques mp3
+mp3 player e radio fm
+radio fm e mp3
+real one player, windows media player
+amr nb/ wb, aac, aac+, eaac+, midi, mp3, wav, wmav9, wmav10
+mp3 player, video player, radio fm e fone de ouvido modelo ph-350.
+mp3 player, video player, radio fm e fone de ouvido modelo ph-350
+mp3, amr nb/ wb, aac, aac+, eaac+, midi, mp3, wav, wmav9, wmav10
+reproducao de musica, toques mp3
+sintonizacao de radio fm e mp3 player
+audio video streaming; h.263 pol10, h.263 pol20 indication; mpeg4 splo; mpeg spl2 indication;video: playback 30fps @ vga (mpeg-4 / h.263 / h.264);recording 30fps @ vga (mpeg-4 / h.263); voice codec amr
+audio;video streaming;h.263 pol10;h.263 pol20 indication;mpeg4 splo;mpeg spl2 indication; video: playback 30fps @ vga (mpeg-4 / h.263 / h.264); recording 30fps @ vga (mpeg-4 / h.263) voice codec;amr
+radio fm; audio video streaming; h.263 pol10, h.263 pol20 indication; mpeg4 splo; mpeg spl2 indication
+radio fm audio video streaming ¿ h.263 pol10, h.263 pol20 indication, mpeg4 splo, mpeg spl2 indication
+reconhecimento de musica do trackid; experiencia xloud - tecnologia de filtro de audio da sony; radio fm com rds; conector de audio de 3,5 mm para fones de ouvido; reproducao de audio, formatos aceitos: mp3, 3gpp, mp4, smf, wav, ota e ogg vorbis; gravacao de audio, formatos aceitos: 3gpp, mp4 e amr
+resposta de frequencia: 20hz a 20.000hz;formatos de audio compativeis: aac (8 a 320 kbps);aac protegido (da itunes store);he-aac, mp3 (8 a 320 kbps);mp3; vbr;audible (formatos 2,3,4, audible enhanced audio;aax e aax+);apple lossless;aiff e wav
+mp3 e mp4 player
+mp3; envio de mensagem de texto que pode ser integrado ao som; audio streaming
+3gp, 3gp2, m4a, m4v, mov, mp4, mkv, mpeg-4, avi, asf, wmv, wma, mp3, mka, aac, amr, f4v, wav, mp2ps, mp2ts, awb, ogg, flac
+experiencia xloud - tecnologia de filtro de audio da sony; som ambiente 3d; estereo bluetooth (a2dp); tons de musica (mp3/aac); reconhecimento de musica do trackid*; aplicativo "walkman"
+mp3 player, radio fm, fone de ouvido modelo ph-350
+amr, amrwd, mid, midi, x-midi, mp3, x-mp3, mpeg3, x-mpeg3, imelody, wav, x-wav, 3gpp, mp4, aac, aac+, eaac+
+reproducao de musica formatos suportados: mp3, aac, aac+, eaac+, wav, amr-nb, midi, ogg, imy, xmf, wma; radio fm; gravacao de radio fm; rds
+mp3, wav, amr e midi e radio fm/am
+mp3, wav, amr e mid e radio fm
+mp3 player e radio fm
+vibracao/mp3/ ringtones
+audio player (midi, 3gpp, aac, mp3, mp4, wav) video player (wmv) mp3 player radio fm viva-voz gravador de voz
+mp3/wav/amr/midi e radio fm
+audio streaming e video streaming
+mp3/midi
+"radio fm mp3  audio: aac, aac+, eacc+, amr, mp3, midi, wav, wma midi: .mid/.midi/.smf/.xmf/.imy hd voice(amr wb)  video: mp4 gravacao: qcif@30fps "
+experiencia xloud - tecnologia de filtro de audio da sony; som ambiente 3d; estereo bluetooth (a2dp); tons de musica (mp3/aac); reconhecimento de musica do trackid*;aplicativo "walkman"
+amr, mp4, 3gpp, amr-wb, 3gpp, m4a, mp4, 3gpp, aac, x-matroska, flac, x-flac, mp3, x-mp3, mpeg3, x-mpeg3, mpeg, mpg, x-mpeg, x-mpg, l8, x-wav, l16, x-wav, l24, x-wav, pcma, x-wav, pcmu, x-wav, qcelp, vnd.qcelp, qcelp, application/ogg, x-matroska
+music player, media player, streaming de audio, dolby headphone
+radio fm audio video streaming - h.263 pol10, h.263 pol20 indication, mpeg4 splo, mpeg spl2 indication voice codec - amr mpeg4. h.263 divx, xvid / mobile-theater aac/aac+/e-aac+ adpcm mp3, wav ringtone - mp3, aac, aac+, aac-lc, amr-nb, wma mms - oma mms v1
+mp3; wav e mid
+mp3, wav e mid
+amr-nb, amr-wb, aac, aac+, eaac+, mp3, pcm, flac, midi, qcelp, evrc, ogg/vorbis
+"reproducao de musica sim formatos suportados:  xmf,aac,aac+,amr-nb,amr-wb,eaac+,imy,m4a,midi,mp3,ogg,sp-midi,wav,wma,3ga flac radio fm nao   "
+aac,aac+,eaac+,mp3,ogg,wav,wma, flac
+reproducao de musica;radio fm
+reproducao de musica: sim
+mp3, radio fm
+mp3 e radio fm
+mp3/mp4
+mp3; vma; mp2; ogg; aac; m4a; ma4; flac; 3gp; wav
+reproducao de musica sim
+midi: application/x-midi, audio/mid, audio/midi, audio/sp-midi, audio/x-mid, audio/x-midi,mp2,mp3,mp4,mpeg, wav, wma,midi,3gp.
+music player formatos:3g2, aac, aac lc, amr-nb, amr-wb, he-aac v1, he-aac v2, m4a, mp3, mp4, wma 10 pro, wma 9, conector padrao 3.5mm; music store 3.0; central de videos; radio de internet; radio fm estereo (87,5-108 mhz/76-90 mhz)
+mp3: audio/mp3, audio/mpeg3, audio/mpg3, audio/x-mp3, audio/x-mpeg, audio/x-mpeg3, audio x-mpg

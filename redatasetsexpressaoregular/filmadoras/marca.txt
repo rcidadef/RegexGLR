@@ -1,0 +1,6 @@
+samsung
+jvc
+panasonic
+sony
+elgin
+lowepro

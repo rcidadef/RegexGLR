@@ -1,0 +1,4 @@
+bivolt
+14,4v
+input ac 100-240 v output dc 19.5 v (4.7a)
+ac100-240v

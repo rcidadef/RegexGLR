@@ -1,0 +1,109 @@
+nao informado pelo fornecedor
+gravacao de voz (max.10 horas); mensagem de voz na imagem parada (max.10s)
+tempo de gravacao (5 ou 10 segundos antes/depois de fotografar, respectivamente)
+grava em audio mpeg-4//aac -lc.
+gravacao de voz (max. 10 horas) - mensagem de voz na imagem parada (max. 10 s).
+gravacao de voz (max. 10 horas); mensagem de voz na imagem parada (max. 10 s)
+gravacao de voz (max. 10 horas) - mensagem de voz na imagem parada (max. 10 s)
+gravacao de voz (max. 10 horas); mensagem de voz na imagem parada (max. 10 s).
+nao informado pelo fornecedor.
+formato de gravacao: formato basico wave ; pcm/16bit, 44,1khz estereo tempo maximo de gravacao: imagem com som: 30seg; movie: depende do tempo de gravacao de video.
+wav
+"formato de gravacao: formato basico wave ; pcm/16bit, 44,1khz estereo tempo maximo de gravacao: imagem com som: 30seg; movie: depende do tempo de gravacao de video".
+mpeg-4 aac-lc
+sim. mp4 / mpeg-4 aac-lc
+formato ccitt u-law
+sim. dolby digital (ac-3) / mpeg-4 aac-lc.
+sim. dolby digital (ac-3) / mpeg-4 aac-lc
+formato de arquivo de audio: aac estereo
+formato de arquivo de audio: mono
+mono
+balanco de branco, compensacao de exposicao, ajuste automatico de brilho
+aac estereo
+o som nao e gravado durante a operacao de zoom optico.
+gravacao de voz (max. 10 horas) e mensagem de voz em imagem estatica (max. 10 s)
+reproducao de voz; gravacao de som; formato: aac; gravacao de comentario audio na imagem 4 seg; alto-falante.
+aac
+wav.
+aac.
+gravacao de voz: maximo 10 horas  mensagem de voz na imagem parada: max 10 seg
+voz: mudo, som em directo ligado, som em directo desligado
+estereo
+hd
+full hd
+reproducao de voz, gravacao de som, formato: aac, gravacao de comentario audio na imagem 4 seg., alto falante
+reproducao de voz, gravacao de som, formato: aac, gravacao de comentario audio na imagem 4 seg., altofalante
+formato: wav
+video: avi (motion jpeg) com som / audio: formato wave
+o som nao e gravado durante a operacao de zoom optico
+audio no video
+audio: g.711 monaural
+gravacao de voz (maximo de 10 horas); mensagem de voz em uma foto (maximo de 10 segundos)
+tempo de gravacao (antes e depois de tirar a foto, 5 ou 10 segundos respectivamente)
+som mono
+960p 30fps, 1080p 30 fps
+sim. ccitt u-law
+formato de arquivo de audio:  aac estereo
+sim, dolby digital (ac-3) / mpeg-4 aac-lc, 2ch
+sim, dolby digital (ac-3), mpeg-4 aac-lc, 2ch
+1920 x 1080 pixels / 1280 x 720 pixels / 640 x 480 pixels (30 quadros/seg.) com som estereo (para gravacao de video)
+som ao vivo: som em directo ligado, som em directo desligado, mudo.
+gravacao de audio
+audio: aac
+video: avi (motion jpeg) com som / audio: formato wave, som monaural (atende a norma de sistema de arquivo de cameras digitais / compativel com dpof)
+audio no video
+som ao vivo: som em directo ligado, som em directo desligado e mudo.
+grava video hd com som
+audio mono, formato wav
+mono, 48 khz, compressao de aac e controle automatico de ganho e entrada para microfone externo estereo (3,5 mm).
+audio wav ( formato de video estereo aac.)
+formato wav
+mpeg-4 aac-lc 2 canais
+audio: mudo; normal; som ao vivo; zoom audio
+som ao vivo: som em directo ligado, som em directo desligado, mudo
+voz: som ao vivo ligado/som ao vivo desligado/mudo
+som ao vivo: som em directo ligado, som em directo desligado e  mudo; altifalante interno (mono), microfone (mono)
+dolby digital (ac-3) / mpeg-4 aac-lc, 2ch
+dolby digital (ac-3) / mpeg-4 aac-lc
+som estereo
+gravacao de audio stereo e microfone embutido
+formato g.711 (monoaural)
+pcm linear (mono)
+pcm linear
+pc linear (mono)
+g.711 [mono]
+avchd format : dolby digital, motion-jpeg format / picture with sound : wave format base (stereo pcm/16bit, 48khz)
+microfone embutido, gravacao estereo.
+gravacao
+voz: ativ./desat./zoom mudo
+n/a. as opcoes de audio sao apenas ativado ou desativado e volume para obturador, acionamento de botoes e ao ligar. nao ha recursos adicionais de gravacao ou reproducao de audio.
+n/a. as opcoes de audio sao apenas ativado ou desativado e volume para obturador, acionamento de botoes e ao ligar. nao ha recursos adicionais de gravacao ou reproducao de audio
+n/a. as opcoes de audio sao apenas: ativado ou desativado e volume para obturador, acionamento de botoes e ao ligar. nao ha recursos adicionais de gravacao ou reproducao de audio
+sim. mono.
+gravacao estereo
+sim
+microfone embutido, gravacao estereo
+pcm linear (esterio)
+stereo
+sim
+pcm linear (monofonica)
+pcm linear (estereo)
+sim'
+gravacao de audio
+sim, com som estereo
+gravacao em estereo
+gravacao de audio: dolby digital (ac-3) 2ch / mpeg-4 aac-lc, 2ch
+gravacao e execucao de audio no formato mp3, aac, aac+ e wma
+monoaural (conexao dedicada (femea) com tipo digital unificado de audio e video)
+microfone interno: sim e microfone externo: usb opcional para um adaptador de microfone estereo de 3,5 mm
+n/a
+as opcoes de audio sao apenas ativado ou desativado e volume para obturador, acionamento de botoes e ao ligar. nao ha recursos adicionais de gravacao ou reproducao de audio.
+sim, estereo (com ajuste de nivel e indicador de nivel de audio). formato de compressao: aac
+sim, estereo. formato de compressao: aac
+sim. mono
+sim. formato de compressao: aac
+sim, estereo. formato de compressao: mp3, aac, amr, wma, ogg, flac, 3ga/m4a, wav
+sim. estereo. formato: aac
+as opcoes de audio sao apenas ativado ou desativado e volume para obturador, acionamento de botoes e ao ligar. nao ha recursos adicionais de gravacao ou reproducao de audio
+video com som
+microfone embutido, estereo / microfone estereo externo (opcional) / a sensibilidade do microfone pode ser ajustada

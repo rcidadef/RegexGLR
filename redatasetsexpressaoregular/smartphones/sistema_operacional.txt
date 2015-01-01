@@ -1,0 +1,8 @@
+windows
+blackberry os
+android
+iphone ios
+outros
+symbian
+blackberry 10
+android 4.2

@@ -1,0 +1,91 @@
+intel hm55
+mobile intel
+intel hm55 gl40
+mobile intel® hm55 express chipset
+intel®  hm55 express chipset
+amd a50m fusion controller hub
+intel gl40.
+intel hm55.
+hm65
+intel hm65 express chipset.
+gm45
+mobile intel hm55 express chipset
+intel hm55 gl40 (montevina)
+ati rs780mn+sb700 (directx 10)
+intel  hm65 express chipset
+intel hm65 (directx 10.1)
+intel gl40
+sis m672+sis 968
+mobile intel® gl40 express chipset
+amd m880g chipset
+intel hm65
+intel® hm65
+amd a50m fch
+intel®  hm65 express chipset
+intel gl40;
+amd a60m
+amd hudson -m1( directx 11)
+intel® hm65
+intel nm10
+intel® hm65 express
+intel®  hm76 express chipset
+intel® (nm10 express chipset)
+intel® hm55 express
+intel® hm77
+a50m
+amd a50m
+intel  hm75
+intel nm70
+intel hm77
+nao informado pelo fornecedor
+intel® hm75
+intel® hm70
+intel® hm76
+intel® hm70 express
+intel® hm77 express
+mobile intel® hm76 express chipsets
+intel hm70
+intel ® hm75 express chipset
+intel ® hm76 express chipset
+mobile intel® hm70 express chipsets
+intel® hm76
+mobile intel hm70
+intel hm75
+amd® a68m
+hm75
+nm70
+mobile intel hm76 express chipsets
+amd hudson-m1
+intel hm75
+amd a68m
+intel hm76
+samsung
+intel hm76 express chipset
+a68m
+intel nm70(directx11)
+a 68m
+hm76
+hm77
+intel hm 75
+intel um77
+intel® nm70
+amd
+intel hm77 express
+intel lynx point-lp pch
+nvidia t40s, 4-plus-1(tm) quad
+amd a68m hudson m3l (directx®11)
+intel lynxpoin architecture
+compaq
+integrado
+amd a70 gch
+intel hm87
+hm87 expresso
+intel hm70 express
+amd a68m hudson m3l (directx11)
+amd hd grafic
+chip set integrado ao processador
+nao se aplica ao produto
+essa nova plataforma nao possui chipset, as funcoes antes realizadas pelo chipset, agora estao unificadas no processador
+essa nova plataforma nao possui chipset, as funcoes antes realizadas pelo chipset agora estao unificadas no processador
+intel lynx point-lp pch (integrated in mcp)
+intel bay trial - m  soc

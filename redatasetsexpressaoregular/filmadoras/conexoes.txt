@@ -1,0 +1,23 @@
+usb,  av, hdmi
+entrada para cartao de memoria sd sim (compativel com sdxc)  transferencia para o pc em alta velocidade via usb 2.0  entrada/saida av
+usb 2.0 hi-speed
+cartao de memoria (entrada), usb, audio e video, video componente e hdmi (saida)
+hdmi, usb e av
+saida hdmi cabo usb embutido
+usb e hdmi
+usb
+usb, audio, video
+usb,  av
+usb, audio/video
+usb, av, hdmi
+saida composite: 1vp-p (75 terminado); cabo hdmi: conector do tipo d e saida usb: micro usb 2.0
+usb embutido, saida de audio/video, saida mini hdmi, conexao mini usb e alimentacao
+sd,usb,hdmi e av
+usb embutido, saida de audio/video, saida mini hdmi, conexao mini usb, alimentacao
+usb, audio e video
+usb embutido, saida de audio/video, saida mini hdmi, conexao mini usb, alimentacao
+saida de audio e video padrao, saida micro hdmi, saida usb 2.0
+usb embutido; saida mini hdmi, entrada mini hdmi; entrada para microfone; alimentacao
+usb embutido; saida mini hdmi; entrada mini hdmi; alimentacao; micro usb (multi)
+usb embutido; saida mini hdmi; micro usb (multi)
+usb, hdmi e av

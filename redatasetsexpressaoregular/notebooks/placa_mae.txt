@@ -1,0 +1,54 @@
+nao infromado pelo fornecedor
+digiboard (i38iix)
+intel
+nao informado pelo fornecedor
+samsung
+mobile intel® hm55 express
+nao informado pelo fabricante
+nao informado pelo fabricante
+samsung.
+lenovo
+nao informado pelo fornecedor.
+lg.
+intel hm55 express chipset
+shuttel
+lg
+shuttel
+positivo
+sim
+mobile intel® gl40 express
+amd m880g
+philco
+digiboard  a14im01
+nao informado pelo fornecedor
+sony
+digiboard  a14im01 ver 1.1
+marca - sim
+padrao qbex
+oem positivo
+acer
+amd radeon(tm) hd 7570m
+intel® hm55 express
+positivo/sim
+intel® hm70 express
+intel® hm77 express
+asus
+shuttle; chipset nm70 com cpu intel celeron 847
+semp toshiba
+n/a
+hp nao informa
+hp nao informa o modelo
+positivo
+hm77
+intel hm77 express
+hp nao informa
+brazos c-70
+asus
+intel lynxpoin architecture
+msi
+chipset intel hm76
+chipset intel hm75
+intel hm70 express
+nao se aplica ao produto
+dell.  chipset intel hm77
+chip set integrado ao processador

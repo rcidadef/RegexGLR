@@ -1,0 +1,87 @@
+entrada rf para tv a cabo, entrada rf para tv aberta (digital e analogico), entrada de video componente
+vga, video composto, video componente
+entrada rf (2), video composto/componente (2 - 1 traseira, 1 lateral hibrido), audio analogico (2);
+entrada rf (2), video composto/componente (2 - 1 traseira, 1 lateral hibrido), audio analogico (2), hdmi (4), ethernet (1)
+entrada rf (2), video composto/componente (1 - hibrido), audio analogico (1)
+1 entrada video componente (traseira)  1 entrada audio e video p2 (conjugada)  3 entradas hdmi (lateral ¿ 1 compativel com mhl)  3 entradas usb divx hd  1 entrada lan* (rj45)  1 saida digital (optica)  1 entrada de audio pc (conjugada rca)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)  1 saida para fone de ouvido
+1 entrada audio e video (traseira - conjugada)  3 entrada hdmi ¿ 1 traseira  3 entrada usb divx hd (lateral) ¿ 1 traseira  1 saida digital optica  1 entrada video componente - traseira  1 entrada de audio pc (conjugada rca/p2)  1 entrada rf para tv aberta (digital e analogica)  1 entrada rf para tv a cabo  1 entrada lan (rj-45)
+1 entrada video componente (traseira)  1 entrada audio e video (conjugada)  2 entradas hdmi (1 lateral com suporte a mhl)  1 entrada usb divx hd (lateral)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira)  2 entradas audio e video (1 conjugada)  2 entradas hdmi (1 lateral com suporte a mhl)  1 entrada usb divx hd (lateral)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)  1 saida optical digital audio out  1 saida para fones de ouvido
+1 entrada video componente (traseira)  1 entrada audio e video (conjugada)  1 entradas hdmi (1 lateral com suporte a mhl)  1 entrada usb divx hd (lateral)  1 saida audio digital  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)
+entrada rf (2), video composto/componente (2 - 1 traseira, 1 lateral hibrido), audio analogico (2)
+1 entrada video componente (traseira)
+  1 entrada audio e video (conjugada)
+  3 entradas hdmi
+  3 entradas usb divx hd (1 time machine ready)
+  1 entrada lan (rj45)
+  1 saida digital (optica)
+  1 saida fone de ouvido
+  1 entrada de audio pc (conjugada)
+  1 entrada rf para tv a cabo
+  1 entrada rf para tv aberta (digital e analogico)
+video composto/componente (2 - 1 traseira, 1 lateral hibrido), audio analogico (2), ethernet (1), entrada rf (2)
+vga, anterna, network
+vga, anterna, network, cvi, digital audio
+entrada rf (2), video composto/componente (2 - 1 traseira, 1 lateral hibrido), audio analogico (2)recursos de conectividade: sony entertainment network, skype, wi-fi direct, tv side view, tv tweet, internet browser, dlna, nfc - one-touch mirroring
+1 entrada video componente (traseira)  1 entrada audio e video (conjugada)  3 entradas hdmi (lateral)  3 entradas usb divx hd (1 time machine ready),(lateral)  1 entrada lan (rj45), (traseira)  1 saida digital (optica), (traseira)  1 saida fone de ouvido (traseira)  1 entrada de audio pc (conjugada)  1 entrada rf para tv a cabo (traseira)  1 entrada rf para tv aberta (digital e analogico),(traseira).
+entrada rf (2), video composto/componente (1 - hibrido), hdmi (2, das quais 1 mhl), audio analogico (1), saida de audio/fone de ouvido (1 - hibrido)
+saida de audio (minientrada), entrada de componente (y / pb / pr), entrada de composto (av), saida de audio digital (optica), ethernet, entrada de rf. saida de ir
+1 entrada video componente (traseira)  1 entrada audio e video (conjugada)  3 entradas hdmi (lateral ¿ 1 compativel com mhl)  3 entradas usb divx hd  1 entrada lan* (rj45)  1 saida digital (optica)  1 entrada de audio pc (conjugada rca)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)  1 saida para fone de ouvido
+entrada video componente, entrada audio/video, entrada lan (rj45), saida audio digital optica, entrada audio pc, entrada rf para tv a cabo, entrada rf para tv aberta
+1 entrada video componente (traseira) p2  1 entrada audio e video (traseira) p2  3 entradas hdmi  3 entradas usb divx hd (1 time machine ready)  1 entrada lan (rj45)  1 saida digital (optica)  1 saida fone de ouvido  1 entrada de audio pc (conjugada)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)
+fonte externa 12v, rf, video composto, audio av, vga/rgb, audio pc
+rf, video composto, audio av, vga, audio pc
+rf, video composto, audio av, vga/rgb, audio pc, ethernet rj45
+rf, video composto, audio av, vga/rgb, audio pc
+vga, antena
+saida para fone de ouvido, antena
+1 entrada video componente (traseira)
+  1 entrada audio e video p2 (conjugada)
+  3 entradas hdmi (lateral ¿ 1 compativel com mhl)
+  3 entradas usb divx hd
+  1 entrada lan* (rj45)
+  1 saida digital (optica)
+  1 entrada de audio pc (conjugada rca)
+  1 entrada rf para tv a cabo
+  1 entrada rf para tv aberta (digital e analogico)
+  1 saida para fone de ouvido
+1 entrada video componente (traseira) p2; 1 entrada audio e video (traseira)  p2;  3 entradas hdmi; 3 entradas usb; divx hd; (1 time machine ready); 1 entrada lan (rj45); 1 saida digital (optica); 1 saida fone de ouvido; 1 entrada de audio pc (conjugada);  1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira) - p2  1 entrada audio e video (traseira) - p2  3 entradas hdmi  3 entradas usb divx hd (1 time machine ready)  1 entrada lan (rj45)  1 saida digital (optica)  1 saida fone de ouvido  1 entrada de audio pc (conjugada)  1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)
+funcao smart tv com wi-fi integrado, para conexao sem fios/ recursos de conectividade: sony entertainment network, skype, wi-fi direct, tv side view, internet browser, dlna, nfc - one-touch mirroring.
+funcao smart tv com wi-fi integrado, para conexao sem fios.
+funcao smart tv com wi-fi integrado, para conexao sem fios
+funcao smart tv com wi-fi integrado, para conexao sem fios recursos de conectividade: sony entertainment network, skype, wi-fi direct, tv side view, internet browser, dlna, nfc - one-touch mirroring
+1 entrada video componente (traseira); 1 entrada audio e video p2 (conjugada)3 entradas hdmi (laterais, sendo 1 compativel com imagem; dtv: conversor digital integrado; triple xd engine; resolucao: hd (1366x768) especificacoes mhl 3 entradas usb (lateral); 1 entrada lan (rj45);  1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl /1 traseira); 1 saida de audio digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 2 entradas audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1 traseira); 1 saida digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 2 entradas audio e video (1 conjugada); 1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente(traseira), 2 entradas audio e video (1 conjugada),  2 entradas hdmi (1 lateral com suporte a mhl/1 traseira) 1 saida de audio digital (optica), 1 entrada usb (lateral), 1 entrada rf para tv a cabo, 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 1 entrada audio e video (conjugada); 3 entradas hdmi (laterais, sendo 1 compativel com imagem); painel ips; dtv: conversor digital integrado; triple xd engine; especificacoes mhl); 3 entradas usb (lateral); 1 entrada lan (rj45); 1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+1 entrada video componente (traseira); 1 entrada audio e video (conjugada); 3 entradas hdmi (laterais, sendo 1 compativel com imagem; painel ips; dtv: conversor digital integrado; triple xd engine; especificacoes mhl); 3 entradas usb (lateral); 1 entrada lan (rj45); 1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1 traseira); 1 saida digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1 traseira); 1 saida digital (optica);1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1 traseira); 1 saida de audio digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo  1 entrada rf para tv aberta (digital e analogico)
+1 entrada video componente (traseira); 1 entrada audio e video p2 (conjugada); 3 entradas hdmi (laterais, sendo 1 compativel com imagem   dtv: conversor digital integrado; triple xd engine; resolucao: hd (1366 x 768) especificacoes mhl); 3 entradas usb (lateral); 1 entrada lan (rj45); 1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1traseira); 1 saida de audio digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+3 entradas hdmi (2 laterais / 1 traseira); 3 entradas usb divx hd (lateral); 1 saida digital optica; 1 entrada rf para tv aberta (digital e analogica)  1 entrada rf para tv a cabo; 1 entrada lan (rj-45); 1 entrada video; componente traseira; 1 entrada audio e video traseira - (conjugada)
+outras conexoes: ethernet lan rj-45, saida de audio digital (coaxial), entrada de audio l/r (esq/dir), saida para fone de ouvido, conector de servico, antena tipo f
+funcao smart tv com wi-fi integrado, para conexao sem fios; recursos de conectividade: sony entertainment network, skype, wi-fi direct, tv side view, internet browser, dlna, nfc - one-touch mirroring.
+rj45 (cabo lan)
+1 entrada de audio e video composto; 1 video componente
+entrada componente (y/pb/pr)
+entrada e saida para fone de ouvido, video composto e video componente
+1 entrada video componente (traseira); 1 entrada audio e video (conjugada); 3 entradas hdmi (laterais, sendo 1 compativel com mhl); 3 entradas usb (lateral); 1 entrada lan (rj45); 1 saida de audio digital (optica); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+antena tipo f; ethernet lan rj-45; saida de audio digital (coaxial); saida para fone de ouvido; conector de servico
+antena tipo f; ethernet lan rj-45; saida de audio digital (coaxial); saida para fone de ouvido; conector de servico
+antena tipo f, ethernet lan rj-45, saida de audio digital (coaxial), saida para fone de ouvido, conector de servico
+entrada rf (2), entrada de video composto (2 - 1 hibrida com video componente), entrada de video componente (1 hibrida com video composto), entrada hdmi (4), entrada de audio analogico (2), saida de audio digital (1), saida de audio (1), ethernet (1), usb(2)
+1 entrada video componente (traseira); 1 entrada audio e video (conjugada); 3 entradas hdmi (laterais, sendo 1 compativel com imagem, painel ips, dtv: conversor digital integrado, triple xd engine especificacoes mhl); 3 entradas usb (lateral); 1 entrada lan (rj45);   1 saida de audio digital (optica); 1 entrada rf para tv a cabo;1 entrada rf para tv aberta (digital e analogico); 1 saida para fone de ouvido
+video composto e video componente
+video composto; video componente
+rgb:1; antena tipo f; saida de audio digital (optica); saida para fone de ouvido; conector de servico
+1 entrada video componente (traseira) - p2; 1 entrada audio e video (traseira) - p2; 4 entradas hdmi (sendo 1 hdmi 2.0); 3 entradas usb divx hd (1 time machine ready 3.0); 1 entrada lan (rj45); 1 saida digital (optica); 1 saida fone de ouvido/auto-falante externo; 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico); 1 entrada rs-232c (traseira)
+1 entrada video componente (traseira); 2 entrada audio e video (1 conjugada); 2 entradas hdmi (1 lateral com suporte a mhl / 1 traseira); 1 saida de audio digital (optica); 1 entrada usb (lateral); 1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (digital e analogico)
+entrada vga (15 pinos);1 entrada rf para tv a cabo; 1 entrada rf para tv aberta (analogico e digital); 1 entrada de video e audio estereo; 1 entrada de video componente; 1 saida de audio digital coaxial
+1 entrada vga (15 pinos), 1 entrada para tv a cabo, 1 entrada para rf para tv aberta (digital e analogica), 1 entrada de video composto e audio estereo, 1 entrada de video componente e audio estereo, 1 entrada pc / audio in, 1 entrada ethernet (rj45), 1 saida de video composto e audio estereo, 1 saida de audio digital coaxial
+entrada audio e video componente (conjugada) e entradas antena coaxial (tv e cabo)
+1 entrada vga (15 pinos), 1 entrada componente/pc audio, 1 entrada usb 2.0: reproduz filmes, musicas e fotos, 1 entrada hdmi, 2 entradas de video e audio estereo, 1 entrada de video componente e 1 saida de video e audio estereo

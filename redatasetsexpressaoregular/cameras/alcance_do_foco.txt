@@ -1,0 +1,171 @@
+5 cm  80 cm, normal: 80 cm  infinito
+de 0 a 20 ev (fotometria com matriz de cores 3d ou de ponderacao central) de 2 a 20 ev (fotometria pontual com iso equivalente a 100, lente de f/1.4 a 20°c)nao informado pelo fornecedor
+normal: 80 cm ~ infinito (wide), 5 cm ~ 80 cm (tele); macro: 5 cm ~ infinito (wide), 100 cm ~ infinito (tele); auto macro: 100 cm ~ 150 cm (wide), 100 cm ~ infinito (tele)
+depende da lente
+multi point af, center weighted af e spot af
+normal: 80 cm ~ infinito (wide), 150 cm ~ infinito (tele); macro: 5 cm ~ 80 cm (wide), 100 cm ~ 150 cm (tele); auto macro: 5 cm ~ infinito (wide), 100 cm ~ infinito (tele)
+normal: 80 cm ~ infinito (wide), 100 cm ~ infinito (tele); macro: 5 cm ~ 80 cm (wide), 100 cm ~ 150 cm (tele); auto macro: 5 cm ~ infinito (wide), 100 cm ~ infinito (tele)
+normal: 80 cm ~ infinito (wide), 100 cm ~ infinito (tele); macro: 5 cm ~ 80 cm (wide), 100 cm ~ 150 cm (tele); auto macro: 5 cm ~ infinito (wide), 100 cm ~ infinito (tele).
+macro: 3 - 50cm / normal: 50cm - infinito.
+distancia de focagem minima: 0,25 m.
+modo standard: 0,6m -  (grande angular) / 1,0m -  (tele) modo macro: 0,2m -  (grande angular) / 0,6m - (tele) modo super macro: distancia de focagem minima: 5 cm.
+imagens 16:9 - 28-140mm; imagens 4:3 - 25-125m; video 16:9 - 28-140mm; video 4:3 - 34-170m
+imagens 16:9 - 27-108mm; imagens 4:3 - 25-100mm; video 16:9 - 27-108mm; video 4:3 - 33-132m
+imagens 16:9 - 27-270mm  imagens 4:3 - 25-250mm video 16:9 - 30-300mm video 4:3 - 37-370mm
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito [t]: aprox. 5 pes (1,5 m) ao infinito modo close-up em macro: aprox. 0,4 pol. (1 cm) ao infinito(posicao media do zoom)
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito modo close-up em macro: [w]: aprox. 3,2 pol. (8 cm) ao infinito
+de 4,6 mm a 23,0 mm (angulo de visao equivalente ao da lente de 26 mm a 130 mm em formato 35 mm [135])
+minima 0,9pes(0,28m)
+normal: (grande angular) 60 cm aprox. a infinito; (telefoto) 1,0 m aprox. a infinito / macro: (grande angular) 9 cm ¿ 80 cm aprox.; (telefoto) 40 cm ¿ 80 cm aprox.
+5 cm a infinito
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito [t]: aprox. 7 pes e 3 pol. (2,2 m) ao infinito  modo close-up em macro: [w]: aprox. 4 pol. (10 cm) ao infinito modo close-up em macro: aprox. 0,4 pol. (1 cm) ao infinito(a tres incrementos a partir da posicao do zoom maximo ate a posicao de telefoto)
+comprimento focal da objetiva: f = 5.0 - 25.0 mm, equivalente a 28 - 140 mm em uma camera 35 mm
+80cm infinito (normal); 5cm 80cm wide e 70 100cm tele (macro); 5cm infinito wide e 70cm infinito tele (auto macro)
+f = 4.9  24.5 mm (equivalente a 27  135 mm)
+28  102mm (equivalente a 35mm).
+nao informado pelo fornecedor
+f=5-20.0mm (28-112mm in 35mm equiv.)
+aproximadamente de 0,3 a 4 metros com lentes sel16f28 e de 0,5 a 3 metros com lentes sel1855
+normal: 80cm - infinito (wide), 100cm - infinito (tele); macro: 5cm - 80cm (wide), 100cm - 150cm (tele); auto macro: 5cm - infinito (wide), 100cm - infinito (tele)
+foco automatico: 80 cm-infinito (grande angular), 150 cm-infinito (tele) / macro: 5 cm-80 cm (grande angular), 100 cm-150 cm (tele) / macro autom.: 5 cm-infinito (grande angular), 100 cm-infinito (tele)
+normal af: 2.0 in./5cm - infinity (w), 12 in./30cm - infinity (t).
+f=4.3-68.8mm (24-384mm in 35mm equiv.)
+28 - 102 mm (equivalente a 35mm)
+modo standard: 0,6m -  (grande angular) / 1,0m - (tele) modo macro: 0,2m -  (grande angular) / 0,9m -  (tele) modo super macro: distancia de focagem minima: 1 cm
+autofoco dinamico distancia focal (a partir da superficie da lente) normal: (grande angular) 40 cm aprox. a infinito; (telefoto) 2,8 m aprox. a infinito macro: (grande angular) 7 cm ¿ 3,0 m aprox.; (telefoto) 2,0 m ¿ 3,0 m aprox. super macro: 2 cm ¿ 1,0 m aprox.
+aprox. 60 cm
+depende da lente
+infinito com melhor def. 6m
+imagens 16:9 - 28-114mm; imagens 4:3 - 26-105mm; video 16:9 - nao ha; video 4:3 - 26-105mm
+distancia focal da lente aprox. 2,7x (formato cx da nikon)
+aproximadamente de 1 a 7 metros
+imagens 16:9 - 28-114mm  imagens 4:3 - 26-105mm video 16:9 - nao ha video 4:3 - 26-105mm
+"imagens 16:9 - 28-140mm  imagens 4:3 - 25-125mm video 16:9 - 29-145mm video 4:3 - 35-175mm"
+normal: 80 cm - infinito (grande angular) 350 cm-infinito (tele;) macro: 5-80 cm (grande angular) 180-350 cm (tele); macro autom.: 5 cm-infinito (grande angular) 180 cm-infinito (tele); foco manual: 5 cm-infinito (grande angular) 180 cm-infinito (tele).
+modo) autofoco individual / autofoco continuo (exr auto, video), autofoco manual (modo autofoco 1 toque incluido) (tipo) autofoco por contraste ttl, autofoco com iluminador auxiliar (selecao de quadro af) central, multi, area, dinamico
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito [t]: aprox. 3 pes e 4 pol. (1 m) ao infinito
+f2.9 a f7.8 wide (equivalente 25-200mm).
+normal: 80 cm - infinito (grande angular) 350 cm - infinito (tele); macro: 5 - 80 cm (grande angular) 180 - 350 cm (tele); macro autom.: 5 cm - infinito (grande angular) 180 cm - infinito (tele); foco manual: 5 cm - infinito (grande angular) 180 cm- infinito (tele)
+0,28 m-infinito
+normal: grande angular: 40cm aprox. a infinito; telefoto: 2,5m aprox. a infinito
+5 cm a infinito.
+normal: 80 cm-infinito (grande angular) 250 cm-infinito (tele) macro: 5-80 cm (grande angular) 100-250 cm (tele); macro automatico.: 5 cm-infinito (grande angular) 100 cm-infinito (tele)
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito [t]: aprox. 2 pes e 8 pol. (80 cm) ao infinito modo close-up em macro: aprox. 4 pol. (10 cm) ao infinito
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito [t]: aprox. 5 pes (1,5 m) ao infinito modo close-up em macro: aprox. 0.4 pol. (1 cm) ao infinito
+s4500 f=4.3mm ~ 129.0mm, equivalente a 24- 720mm em 35 mm camera
+infinito com melhor def. 6m
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito; [t]: aprox. 3 pes e 4 pol. (1 m) ao infinito; modo close-up em macro: aprox. 2 pol. (5 cm) ao infinito
+"[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito  [t]: aprox. 3 pes e 4 pol. (1 m) ao infinito  modo close-up em macro: aprox. 2 pol. (5 cm) ao infinito "
+[w]: aprox. 50 cm ao infinito; [t]: aprox. 1,5 m ao infinito ;modo close-up em macro: aprox. 1 cm ao infinito
+de 4,1 mm a 12,3 mm (angulo de visao equivalente ao da lente de 29,1 mm a 87,3 mm, em formato 35 mm [135])
+imagens 16:9 - 27.5-275mm  imagens 4:3 - 25-250mm video 16:9 - 27.5-275mm video 4:3 - 33.5-335mm
+imagens 16:9 - 26-416mm  imagens 4:3 - 24-384mm video 16:9 - 25-400mm video 4:3 - 31-496mm
+imagens 16:9 - 27-108mm  imagens 4:3 - 25-100mm video 16:9 - 27-108mm video 4:3 - 33-132mm
+imagens 16:9 - 28-140mm  imagens 4:3 - 26-130mm video 16:9 - 28 - 140mm video 4:3 - 35-175mm
+foco automatico (normal): 80cm~infinito (grande-angular), 150cm~infinito (tele) macro: 5cm~80cm (grande-angular), 100cm~150cm (tele) auto macro: 5cm~infinito (grande-angular), 100cm~infinito (tele)
+normal: 80 cm-infinito (grande angular) 350 cm-infinito (tele); macro: 10-80 cm (grande angular) 150-350 cm (tele); macro autom.: 10 cm-infinito (grande angular) 150 cm-infinito (tele); foco manual: 10 cm-infinito (grande angular) 150 cm-infinito (tele)
+normal: 80 cm-infinito (grande angular) 250 cm-infinito (tele), macro: 5-80 cm (grande angular) 100-250 cm (tele), macro autom.: 5 cm-infinito (grande angular) 100 cm-infinito (tele)
+normal: 80 cm-infinito (grande angular) 100 cm-infinito (tele) macro: 5-80 cm (grande angular) macro autom.: 5 cm-infinito (grande angular) 100 cm-infinito (tele)
+normal: 80 cm-infinito (grande angular) 200 cm-infinito (tele) macro: 5-80 cm (grande angular) 150cm-200cm (tele) macro autom.: 5 cm-infinito (grande angular) 150 cm-infinito (tele)
+[w]: aprox. 1 pe e 8 pol. (50 cm) ao infinito  [t]: aprox. 5 pes (1,5 m) ao infinito  modo close-up em macro: aprox. 1,6 pol. (4 cm) ao infinito
+f=5.0 - 90.0 mm, equivalente a 28 - 504mm (camera 35 mm)/ normal: wide: approx. 40cm, telephoto: approx. 2.5 m; macro - wide: approx. 5 cm - 3m /telephoto: approx. 1.8m - 3m ; super macro: wide: aprox. 2cm -  1.0m
+normal: 80 cm/infinito (grande angular); macro: 5/80 cm (grande angular); macro automatico.: 5 cm/infinito (grande angular), 100 cm/infinito (tele); macro: 5/ 80 cm (grande angular); macro automatico: 5 cm/infinito (grande angular), 100 cm/infinito (tele)
+18-55mm
+7,9 polegadas - 2,3 pes (20-70cm) (grande-angular), 2,8 pes - 5,2 pes (85 centimetros - 1.6m) (tele)
+1-50cm
+3 cm - 50 cm (grande-angular)
+5-50cm (grande-angular)
+0,4 polegadas 1,6 pes (1-50 cm) (w)
+1-50cm (grande-angular)
+3-50cm (grande-angular)
+3-60cm (grande-angular)
+centro af / af continuo (exr auto) / movimento
+1m - infinito
+60cm~infinito wide e 120cm a infinito tele (normal), 5cm a infinito wide (macro)
+60cm~infinito wide e 120cm a infinito tele (normal), 5cm a infinito wide (macro)
+60cm~infinito wide e 120cm a infinito tele (normal), 5cm a infinito wide (macro).
+equivalente a 1,6x a distancia focal da objetiva
+menor distancia: 1 cm (w) a partir da parte da frente da objetiva em macro
+12 metros (utilizando iso100)
+normal: (wide) 60 cm ~8 , (tele) 80 cm ~8 macro : (wide) 5cm ~8
+f=4.2 126 mm ou equivalente a 24-720 mm
+modo autofoco individual, autofoco continuo (exr auto, video), autofoco manual (modo autofoco a 1 toque incluido), tipo autofoco ttl por deteccao de contraste, autofoco com iluminacao auxiliar, selecao de quadro af multiponto, area e dinamico
+f3.5/f5.6
+imagens 16:9 - 27-567mm imagens 4:3 - 25-525mm video 16:9 - 31-667mm video 4:3 - 29-618mm
+f3.5-5.6 (mimino: f22), (numero de laminas: 7, diafragma de abertura circular) *lente 20-50mm; imagens 4:3 - 26-105mm; video 4:3 - 26-105mm
+modo: af simples / continuo indicador de distancia af / mf. tipo contraste ttl af, af iluminador auxiliar disponivel; af selecao de quadros; area (evf / lcd: 49 areas com 7 x 7, ovf: 25 areas com 5 x 5) / multi tamanho * mutavel de moldura af: entre 5 tipo
+centro af / af continuo (sr auto) unico af
+macro on: 30~45 cm; macro off: a partir de 1,5m
+macro on: 30~45 cm / macro off: a partir de 1,5m
+normal: 80 cm-infinito (grande angular), 350 cm-infinito (tele); macro: 10-80 cm (grande angular), 200-350 cm (tele); macro autom.: 10 cm-infinito (grande angular), 200 cm-infinito (tele); super macro: 1-10 cm(somente zoom de nivel 9) (grande angular)
+f= 6,4-25,6 mm, equivalente a 25 - 100 mm em formato 35 mm.
+imagens 16:9 - 30-150mm / imagens 4:3 - 28-140mm / video 16:9 - 30,5-152,5mm / video 4:3 - 28-140mm
+aproximadamente  de 0,5 a 3 metros com lentes sel1855
+imagens 16:9 - 28-224mm; imagens 4:3 - 25-200mm; video 16:9 - 28-224mm; video 4:3 - 34-272mm
+"imagens 16:9 - 30-150mm imagens 4:3 - 28-140mm video 16:9 - 30.5-152.5mm video 4:3 - 28-140mm     f=27-108mm     f=25-100mm ¿f=27-108mm ¿f=25-100mm"
+normal: 80cm - infinito (grande angular), 250 cm - infinito (telefoto). macro: 5 - 80 cm (grande angular), 100 - 250 cm (telefoto). macro autom.: 5 cm - infinito (grande angular), 100 cm - infinito (telefoto).
+normal: 80 cm¿infinito (grande angular), 250 cm¿infinito (tele) / macro: 5¿80 cm (grande angular), 100-250 cm (tele) / macro autom.: 5 cm¿infinito (grande angular), 100 cm¿infinito (tele)
+normal: 80 cm¿infinito (grande angular), 250 cm¿infinito (tele). / macro: 5¿80 cm (grande angular), 100-250 cm (tele). / macro autom.: 5 cm¿infinito (grande angular), 100 cm¿infinito (tele)
+normal: 80 cm¿infinito (grande angular), 250 cm¿infinito (tele). macro: 5¿80 cm (grande angular), 130-250 cm (tele). macro autom.: 5 cm¿infinito (grande angular), 130 cm¿infinito (tele)
+normal: 80 cm infinito (grande angular), 350 cm" infinito (tele) / macro: 5"80 cm (grande angular), 180-350 cm (tele) / macro autom.: 5 cm"infinito (grande angular), 180 cm"infinito (tele) / manual: 5 cm"infinito (grande angular), 180 c"infinito (tele)
+normal: 80 cm"infinito (grande angular), 350 cm"infinito (tele) / macro: 5"80 cm (grande angular), 180-350 cm (tele) / macro autom.: 5 cm"infinito (grande angular), 180 cm"infinito (tele) / manual: 5 cm"infinito (grande angular), 180 cm"infinito (tele)
+f= 4.0-104.0mm
+normal: grande angular: aprox. 15cm ao infinito telefoto: aprox. 3.0m ao infinito macro grande angular: aprox. 5cm - 3.0m telefoto: aprox. 1.8m - 3.0m super macro grande angular: aprox. 2cm - 1.0m
+normal: grande angular: aprox. 15cm ao infinito, telefoto: aprox. 3.0m ao infinito, macro grande angular: aprox. 5cm - 3.0m, telefoto: aprox. 1.8m - 3.0m, super macro grande angular: aprox. 2cm - 1.0m
+normal: grande angular: aprox. 45cm ao infinito, telefoto: aprox. 3.5m ao infinito, macro grande angular: aprox. 7cm - 3.0m, telefoto: aprox. 2.8m - 3.0m, super macro grande angular: aprox. 1cm - 1.0m
+f=25-200mm
+f=25-200mm
+f3.5-5.6 (mimino: f22), (numero de laminas: 7, diafragma de abertura circular); lente 20-50mm; imagens 4:3 - 26-105mm; video 16:9 - nao ha; video 4:3 - 26-105mm
+f=4.45-44.5mm
+28-448 (equivalente ao filme de 35mm)
+24-1200, equivalente ao filme de 35mm
+f=26-130mm
+f=24-1200mm
+f=24-720mm
+25cm
+5,0 - 25,0mm (equivalente a 35 mm: 28 - 140mm)
+5,0 - 40,0 mm (equivalente a 35 mm: 28 ¿ 224 mm)
+depende da lente/objetiva em uso
+6.1 - 30.5 mm (equivalente a 35mm: 28-140mm)
+[w]: aprox. 30 cm ao infinito  [t]: aprox. 50 cm ao infinito  modo close-up em macro: [w]: aprox. 5 cm ao infinito
+[w]: aprox. 50 cm ao infinito  [t]: aprox. 1 m ao infinito  modo close-up em macro: [w]: aprox. 5 cm ao infinito
+[w]: aprox. 50 cm ao infinito / [t]: aprox. 1 m ao infinito / modo close-up em macro: [w]: aprox. 5 cm ao infinito
+[w]: aprox. 50 cm ao infinito / [t]: aprox. 1,5 m ao infinito / modo close-up em macro: [w]: aprox. 1 cm ao infinito
+[w]: aprox. 50 cm ao infinito; [t]: aprox. 1,5 m ao infinito; modo close-up em macro: [w]: aprox. 1 cm ao infinito (todas as distancias foram medidas do centro da superficie frontal da lente)
+[w]: aprox. 50 cm ao infinito  [t]: aprox. 1,5 m ao infinito  modo close-up em macro: aprox. 1 cm ao infinito
+unico af / af continuo (sr auto movie,) contraste ttl af, af iluminador auxiliar disponivel, centro, area, multi, acompanhar
+unico af / af continuo (sr auto movie,) contraste ttl af ( centro / rastreamento)
+f3.5-5.6 (utilizando lentes 18-55mm).
+f3.5-5.6 (utilizando lentes 20-50mm).
+[w]: aprox. 50 cm ao infinito  [t]: aprox. 1 m ao infinito. modo close-up em macro: aprox. 1 cm ao infinito (1 cm na posicao mais proxima ao centro da superficie frontal da lente). (todas as distancias foram medidas do centro da superficie frontal da lente)
+[w]: aprox. 50 cm ao infinito  / [t]: aprox. 1 m ao infinito  / modo close-up em macro: aprox. 1 cm ao infinito(1 cm na posicao mais proxima ao centro da superficie frontal da lente) - (todas as distancias foram medidas do centro da superficie frontal da lente)
+automatico
+30cm~infinito
+foto macro : a partir de 1 cm a infinito, distancia focal = 4,3mm a 215mm
+foto macro : a partir de 1 cm a infinito, distancia focal = 4,3mm a 223,6mm
+de 25cm ate infinito, com lente sel1855 inclusa no kit
+4.1-86.1mm (23-483mm equivalente em 35mm)
+28 mm - 140 mm equiv
+normal: 80 cm infinito (grande angular), 350 cm¿infinito (tele) - macro: 5¿80 cm (grande angular), 180-350 cm (tele) - macro autom.: 5 cm¿infinito (grande angular), 180 cm¿infinito (tele) - manual: 5 cm¿infinito (grande angular), 180 cm¿infinito (tele)
+normal: 80 cm infinito (grande angular), 350 cm¿infinito (tele) - macro: 5¿80 cm (grande angular), 180-350 cm (tele) - macro autom.: 5 cm infinito (grande angular), 180 cm¿infinito (tele) - manual: 5 cm¿infinito (grande angular), 180 cm¿infinito (tele)
+distancia focal: imagens 16:9 - 27-954mm imagens 4:3 - 25-875mm video 16:9 - 30-1060mm video 4:3 - 28-973mm
+4,5 - 90,0 mm (equivalente a 35 mm: 25 ¿ 500 mm)
+infinito com melhor definicao de 6m
+normal 1.5m~infinito/macro 20-21cm
+4,3 ¿ 43,0 mm (equivalente a 35 mm: 24 ¿ 240 mm)
+imagens 16:9 - 28.3-141.6mm; imagens 4:3 - 26-130mm; video 16:9 - 31.5-157.3mm; video 4:3 - 26-130mm
+imagens 16:9 - 28-224mm imagens 4:3 - 25-200mm video 16:9 - 28-224mm video 4:3 - 34-272mm
+normal: 80cm - infinito (grande angular), 250 cm - infinito (telefoto); macro: 5 - 80 cm (grande angular), 100 - 250 cm (telefoto); macro automatico: 5 cm - infinito (grande angular), 100 cm - infinito (telefoto)
+relativo a lente usada
+normal: 80 cm¿infinito (grande angular), 350 cm¿infinito (tele) - macro: 5¿80 cm (grande angular), 180-350 cm (tele) - macro autom.: 5 cm¿infinito (grande angular), 180 cm¿infinito (tele) - manual: 5 cm¿infinito (grande angular), 180 cm¿infinito (tele)
+normal:5cm - infinito (w), 1.4m - infinito (t); auto/manual: 0cm - infinito (w),  1.4m - infinito (t); macro af: cm - 50cm (w)
+50 cm - 3,0 m (w)/60 cm ¿ 2,0 m (t)
+50cm~infinito wide e 100cm~infinito tele (normal), 5cm~infinito wide (modo close-up em macro)
+50cm~infinito
+af por deteccao de contraste
+af com area dinamica de 9, 21 ou 39 (acompanhamento em 3d), af com area utomatica, af de ponto unico
+equivalente a 1,6x da distancia focal da objetiva
+4,3 - 43,0 mm (equivalente a 35 mm: 24 - 240 mm)
+central prioridade de rosto manual com 99 areas de foco rastreador do assunto af com localizador de assunto
+fish eye 170º
+macro on: 30~45 cm / macro off:  a partir de 1,5 m

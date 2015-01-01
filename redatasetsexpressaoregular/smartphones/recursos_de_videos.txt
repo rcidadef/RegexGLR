@@ -1,0 +1,47 @@
+captura de video
+formatos: mpeg4, h.263, h.264, wmv3; filmadora com gravacao de video: modo mormal (320x240 pixels), modo mms (176x144)
+permite reproducao de videos curtos; camera de 3.2 mp: auto-foco, estabilizacao da imagem; flash; zoom digital 2xm; gravacao de video: modo normal: 480 x 352 pixels; modo mms: 176 x 144 pixels; suporte do formato de video: divx 4,divx 5/6 suportado parcial, xvid suportado parcial, h.263, h.264, wmv3; suporte do formato de audio: 3gp, mp3, wma9 (.wma/.asf), wma9 pro/wma 10, midi, amr-nota, professional aac/aac / eaac +; blackberry maps e gps: inclui blackberry maps / gps integrado com a-gps -wi-fi: 802.11 b/g; suporte uma: certificacoes wi-fi planejadas: wpa, wpa2, wmm, wmm power save, wi-fi protected setup, cisco ccx .
+mp4, m4a, mov, 3gp, m4p, avi, aac, amr
+gravacao de video;  visualizacao de videos; youtube.
+captura de video em qcif, ate 15 fps, reproducao ate vga; duracao do video: depende da memoria livre disponivel; configuracoes de equilibrio de branco e efeito de tom da cor; zoom digital de ate 4x; reproducao: mpeg-4, h.263, h. 264, qvga ate 15 fps; formato do arquivo de video: .mp4 (padrao), .3gp (para mms); streaming em tempo real; streaming 3gpp.
+gravacao nos formatos: 1080p hd video, mpeg4, h.264 - (mp4)
+modo normal: 480 x 352 pixels; modo mms: 176 x 144 pixels
+gravacao e reproducao de videos.
+captura e reproducao de videos full hd (1080p) ate 30 fps; dlna - compartilha conteudo sem fio com outros dispositivos equipados com dlna; streaming de video; youtube¿; formatos compativeis: h.263, h.264, mpeg-4, 3gp
+central avancada de videos: uma central de experiencias de video;  acesso aos ultimos videos reproduzidos e reinicio facil; meus videos ¿ colecao de videos armazenados;  acesso a videos da internet, compativel com rss feeds e podcasts de video, com atualizacoes e downloads diretos e sem fio;  diretorio de videos para descobrir novos videos na internet; suporte para download, streaming e download progressivo; suporte para video flash;  mpeg-4, 3gpp: codecs h.263 e h.264;  resolucao do video: 640x352, 15fps, eq: 2929.
+reproducao/captura de videos: qvga@15fps;  formatos suportados: h.263 + amr nb e mpeg4.
+captura/reproducao de videos; resolucao de captura 640x480, 320x240, 176x144; ajustes: fino, bom e normal, modo de cena: automatico e noturno. formatos compativeis: mp4/h.264/h.263. assista videos direto do youtube
+gravacao e reproducao de videos (wvga);  formatos compativeis: mp4/h.263/h.264/wmv;  streaming de video;  estabilizador de video;  iluminacao de video;  youtube - assista seus videos favoritos;
+gravacao/reproducao de videos hd 720p;  hub videos alimentado pelo zune permite assistir videos, fazer downloads e muito mais;  streaming de video;  youtube.
+formatos de video compativeis mp4, .m4a, .3gp, .avi, .asf
+formatos de video compativeis: mp4, m4a, 3gp, avi, asf gravacao de video em hd de 720p
+mpeg4, h.264, h.263 - reproducao de video: ate 7.4 horas
+gravacao de video, hd (1080p), ate 30 quadros por segundo com audio e estabilizacao de video
+filma videos em hd (1280 x 720 pixels) em 30 quadros por segundo (30 fps), gravador de video, reprodutor de video, streaming de video, estabilizacao de video, foco automatico continuo
+controles de exibicao
+resolucao da camera principal: (640x480), (320x240), (176x144); ajuste de branco: automatico, incandescente, luz do dia, fluorescente, nublado; tonalidade para camera: normal, preto e branco, negativo, sepia, azul; qualidade do video: super fina, fina e normal
+gravacao de video, video streaming, video playback
+mpeg4 - hd+ 1080p
+video player e gravador de video em resolucao qcif
+gravacao de video, resolucao: 1280 x 720
+resolucao da gravacao: vga (640x480);mms (qvga-320x240);mms (qcif-176x144); edicao do menu rapido; balanco dos brancos: automatico, incandescente, luz do dia, fluorescente, nublado; efeitos de cor: nenhum, preto e branco, sepia, negativo;marcacao geografica: desativar, ligado; revisao automatica: desligado, ligado, 2 segundos, 5 segundos
+resolucao da gravacao: vga (640x480), mms (qvga-320x240), mms (qcif-176x144) edicao do menu rapido;balanco dos brancos: automatico;incandescente;luz do dia;fluorescente;nublado; efeitos de cor: nenhum;preto e branco;sepia;negativo; marcacao geografica: desativar;ligado;revisao automatica: desligado;ligado 2 segundos;5 segundos
+playback 30fps @ vga (mpeg-4 / h.263 / h.264)
+video: playback 30fps @ vga (mpeg-4 / h.263 / h.264)
+foco automatico, estabilizador de video e filma em 1080p@30fps
+gravacao de video;hd(1080p) ate 30 quadros por segundo com audio; estabilizacao de video
+modo video em alta definicao; resolucao da gravacao: hd 1080p, hd 720p, sd 480p;time lapse ligado, desligado; gravacao:time-lapse e um processo cinematografico em que cada fotograma ou quadro (frame) de filme e tomado a uma velocidade muito mais lenta do que aquela em que o filme sera reproduzido;efeito de cor: nublado, ensolarado, negativo, fluorescente, ambiente;flash: desligado, ligado;zoom: 4x
+gravacao em hd 1080p
+gravacao de video hd (1080p)
+video player e gravador de video em resolucao qcif
+grava video com voz
+gravacao de video formatos suportados mpeg4, h.263, h.264, vp6/8, wmv9; resolucao de reproducao full hd (1080p@30fps); resolucao de gravacao full hd (1080p@30fps)
+3gp e mp4 e filmadora digital
+3gp e mp4
+1080p@30fps
+audio video streaming; h.263 pol10, h.263 pol20 indication, mpeg4 splo, mpeg spl2 indication
+captura de 30 quadros por segundo fwvga (mp4, h.264, h.263); reproducao de 720p (ajustados para a tela) fwvga (mp4, h.264, vc-1, wmv-9, divx 4/5/6); gravacao de video em 480p (h.264)
+1.3mp (com flash), mp4 e tv
+vga (com flash), mp4
+audio streaming e video streaming
+gravacao de video, video chamada, video player

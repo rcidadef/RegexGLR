@@ -1,0 +1,135 @@
+252w. stand by: 0,35w.
+185w.
+ligado: 180w, em standby: 1w
+390w
+eletrico em stand by - 127v,  0.20w / 220v  0.30w . eletrico em uso - 166w.
+consumo eletrico em stand by  127v : 0.30w / 220v : 0.40w; consumo eletrico em uso  177w
+145w
+8w.
+190w. stand by: 1w.
+180 w / standby: 1w
+10 w h.
+135w
+137 kw/h
+consumo eletrico em uso 72w /consumo eletrico em stand by 127v : 0.20w / 220v : 0.30w
+consumo eletrico em uso 70w,  consumo eletrico em stand by 127v : 0.20w / 220v : 0.30w
+101w
+170 kw/h
+180kw/h
+nao informado pelo fornecedor
+75w
+100 w
+stby: 03w /uso: 116w
+stby: 03w /uso: 140w
+stby: menos de 1w /uso: 50w
+160w
+390 w
+100kw/h
+110w
+110 w
+130w
+80w
+275w
+stby: 03w /uso: 128w
+stand by: 03w / em uso: 136w
+stby:03w e em uso:136w
+120 w
+140 w
+stby 05w; uso 84w
+50w
+98w
+115w
+127v : 0.2w / 220v : 0.4w  268w
+53w (max) / 22w (typical)
+53w (max) / 27w (typical)
+70w
+77w - 127:0.4w/220v:0.5w
+em standby abaixo de 1w. em operacao normal 82w
+em standby abaixo de 0.3w. em operacao normal 62w
+em standby: 0.5w / 300w em uso
+menos de 1w/67w
+60w
+90w
+270w
+370w
+18w
+36w
+< 1,0
+105 kw/h
+106w
+134w
+300w
+106w
+190w
+250w
+127v : 0.2w / 220v : 0.4w (stand by) - 264w (em uso)
+0,3w (stand by) / 86w (consumo)
+30w
+50w
+127v : 0.4w / 220v : 0.5w (stand by)  /  89w (em uso)
+127v : 0.4w / 220v : 0.5w (stand by) / 75w (consumo)
+127v : 0.4w / 220v : 0.5w (stand by) / 89w (consumo)
+127v : 0.2w / 220v : 0.3w (stand by) / 208w (consumo)
+127v : 0.4w / 220v : 0.5w (stand by) / 88w (em uso)
+76w
+93w
+65w
+65w
+90w
+120w
+100w
+340w
+210w
+95w
+127v : 0.2w / 220v : 0.3w (stand by) / 134w (em uso)
+< 1,0kw/h
+100w
+180w
+50w (modo on)
+0,10kw/h
+0,12kw/h
+0,13kw/h
+0,19kw/h
+0,07kw/h
+0,05kw/h
+93w
+0,09kw/h
+0,1kw/h
+0,01kw/h
+0,11kw/h
+127v : 0.4w / 220v : 0.5w (stand by) / 91w (em uso)
+260w
+150w
+66,67w
+20w
+67w
+92kw/h
+134kw/h
+117w
+224w
+99kw/h
+113kw/h
+106kw/h
+1,1kw/h
+152kw/h
+160kw/h
+188kw/h
+133w
+75w
+107w
+122w
+122kw/h
+45w
+75w - 127:0.4w/220v:0.5w
+180
+275
+1,1kw/h
+290w
+520w
+50 w (modo on)
+130w
+1kw/h
+180kw/h
+18w
+0,22kwh/mes
+39w

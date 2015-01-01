@@ -1,0 +1,29 @@
+60hz
+480hz montion flow
+60hz
+120hz
+cmr 120
+cmr 240hz
+cmr 960
+cmr 1200
+600hz
+240hz montion flow
+480 mci
+120 mci
+960hz montion flow
+960 mci
+120hz pmr
+360hz pmr
+840hz pmr
+120hz montion flow
+cmr 240
+1200 mci
+cmr 60
+960hz
+240hz
+480hz
+360hz
+240hz - cmr
+cmr
+motionflow 480hz
+60 hz

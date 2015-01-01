@@ -1,0 +1,7 @@
+bsi cmos 1/4''
+cmos
+sensor exmor r cmos
+sensor de iluminacao: sensor exmor r cmos
+sensor ccd
+ccd
+exmor r cmos

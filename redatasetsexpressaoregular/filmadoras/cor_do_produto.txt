@@ -1,0 +1,6 @@
+preta
+cinza
+prata
+preto
+azul
+branco

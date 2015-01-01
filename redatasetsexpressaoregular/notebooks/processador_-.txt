@@ -1,0 +1,18 @@
+intel core i3
+intel pentium dual core
+intel core i5
+amd
+intel core i7
+intel celeron dual core
+intel
+intel atom
+amd dual-core
+quad core
+intel dual core
+intel celeron
+nvidia tegra 4
+samsung exynos 5 dual core
+intel core i3 (3ª geracao)
+intel core i5 (3ª geracao)
+intel quad core
+intel celeron quad core

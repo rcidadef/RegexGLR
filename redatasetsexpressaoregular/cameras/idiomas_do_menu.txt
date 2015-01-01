@@ -1,0 +1,82 @@
+espanhol,ingles,portugues
+portugues
+chines,coreano,espanhol,frances,indones,ingles,persa,portugues,tailandes.,vietnamita,arabe
+portugues - ingles
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,arabe
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,arabe
+bahasa-indonesio,chines,coreano,espanhol,frances,ingles,persa,portugues,tailandes.,vietnamita,arabe
+chines,coreano,espanhol,frances,ingles,persa,portugues,tailandes.,vietnamita,arabe
+bahasa-indonesio,chines,coreano,espanhol,frances,ingles,persa,portugues,tailandes.,arabe
+diversos
+alemao,espanhol,frances,ingles,italiano,japones,portugues
+alemao,espanhol,ingles,italiano,japones,portugues
+ingles
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,polones,portugues,sueco,tcheco,turco,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,polones,portugues,sueco,tcheco,turco
+chines,coreano,espanhol,frances,ingles,portugues,tailandes.,arabe
+espanhol,ingles,italiano,japones,portugues
+ingles,portugues
+chines,coreano,espanhol,frances,indones,ingles,italiano,japones,persa,portugues,tailandes.,vietnamita,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,indones,ingles,italiano,japones,polones,portugues,russo,sueco,turco,vietnamita,arabe
+chines,coreano,dinamarques,espanhol,frances,grego,hebraico,holandes,hungaro,indones,ingles,italiano,japones,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,chines,coreano,dinamarques,espanhol,frances,holandes,ingles,italiano,japones,persa,polones,portugues,russo,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,checo,chines,coreano,croata,dinamarques,espanhol,frances,grego,holandes,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,arabe
+chines,coreano,espanhol,frances,indones,ingles,persa,tailandes.,vietnamita,arabe
+alemao,checo,chines,coreano,croata,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,portugues,russo,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,bahasa-indonesio,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,portugues,russo,sueco,turco,arabe
+espanhol,finlandes,frances,grego,ingles,italiano,japones,portugues,arabe
+espanhol,frances,ingles,italiano,japones,portugues
+alemao,bahasa-indonesio,checo,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,persa,polones,portugues,russo,sueco,tailandes.,turco,vietnamita,arabe
+alemao,checo,chines,coreano,espanhol,frances,grego,ingles,italiano,japones,portugues,russo,tailandes.,vietnamita,arabe
+alemao,checo,chines,coreano,espanhol,frances,grego,holandes,ingles,italiano,japones,portugues,russo,tailandes.,vietnamita,arabe
+alemao,bahasa-indonesio,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,checo,chines,coreano,frances,grego,ingles,italiano,portugues,russo,tailandes.,vietnamita,arabe
+alemao,checo,chines,coreano,espanhol,frances,grego,ingles,italiano,japones,portugues,russo,tailandes.,vietnamita
+alemao,chines,coreano,espanhol,frances,grego,ingles,italiano,portugues,russo,vietnamita
+alemao,chines,coreano,espanhol,frances,grego,ingles,italiano,japones,portugues,russo,vietnamita
+alemao,chines,coreano,espanhol,frances,grego,italiano,japones,portugues,russo,vietnamita
+alemao,checo,chines,coreano,espanhol,frances,grego,ingles,italiano,japones,portugues,vietnamita
+diversos,ingles,portugues
+alemao,chines,coreano,espanhol,frances,ingles,italiano,japones,portugues,russo
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,holandes,ingles,italiano,polones,portugues,russo,sueco,tcheco
+chines,coreano,espanhol,frances,ingles,japones,persa,portugues,tailandes.,vietnamita,arabe
+chines,coreano,espanhol,frances,ingles,italiano,japones,persa,portugues,tailandes.,vietnamita,arabe
+alemao,espanhol,frances,holandes,ingles,italiano,portugues,russo,turco
+alemao,espanhol,frances,ingles,italiano,portugues,russo,turco
+alemao,bahasa-indonesio,chines,coreano,espanhol,frances,ingles,italiano,japones,persa,portugues,tailandes.,vietnamita,arabe
+alemao,chines,coreano,espanhol,frances,ingles,italiano,portugues,arabe
+bahasa-indonesio,chines,coreano,espanhol,frances,ingles,japones,persa,portugues,tailandes.,vietnamita,arabe
+alemao,espanhol,frances,ingles,italiano,portugues
+alemao,chines,coreano,espanhol,frances,ingles,italiano,portugues
+alemao,checo,dinamarques,espanhol,finlandes,grego,hungaro,ingles,italiano,portugues,russo,sueco,tailandes.,turco,arabe
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,grego,hungaro,ingles,italiano,japones,portugues,russo,sueco,tailandes.,turco,arabe
+bahasa-indonesio,chines,coreano,espanhol,frances,ingles,persa,portugues,tailandes.,turco,vietnamita,arabe
+chines,coreano,espanhol,frances,ingles,persa,portugues,tailandes.,turco,vietnamita,arabe
+alemao,espanhol,ingles,portugues
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,persa,polones,russo,sueco,tailandes.,tcheco,turco,portugues de portugal,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,indones,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,trilingue - espanhol, ingles, portugues,turco,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,frances, ingles, portugues,grego,holandes,indones,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,indones,ingles,italiano,japones,persa,polones,russo,sueco,tailandes.,tcheco,turco,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,indones,ingles,italiano,japones,persa,polones,portugues,russo,sueco,tailandes.,tcheco,turco,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,indones,ingles,italiano,japones,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,arabe
+alemao,checo,chines,espanhol,finlandes,frances,grego,hebraico,holandes,ingles,italiano,japones,portugues,russo,sueco,tailandes.,tcheco,vietnamita
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,ingles,italiano,japones,polones,portugues,russo,sueco,tailandes.,tcheco,turco,vietnamita,portugues de portugal,arabe
+alemao,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,polones,portugues,russo,sueco,tailandes.,tcheco,turco,portugues de portugal,arabe
+alemao,coreano,espanhol,ingles,italiano,portugues,russo
+coreano,espanhol,ingles,italiano,portugues
+alemao,chines,dinamarques,english,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,polones,portugues,tcheco,turco,arabe
+alemao,espanhol,ingles,italiano,portugues
+espanhol,frances,ingles,portugues
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,frances,grego,holandes,hungaro,ingles,italiano,japones,noruegues,persa,portugues,russo,sueco,tailandes.,turco,vietnamita,arabe
+chines,coreano,espanhol,frances, ingles, portugues,persa,tailandes.,arabe
+coreano,frances,ingles - espanhol,persa,tailandes.,arabe
+coreano,frances, ingles, portugues,persa,arabe
+alemao,coreano,espanhol,frances,ingles,italiano,japones,portugues,russo
+coreano,ingles,portugues
+alemao,grego,ingles,italiano,portugues,russo,turco,arabe
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,grego,holandes,hungaro,ingles,italiano,japones,noruegues,portugues,russo,sueco,tailandes.,turco,arabe
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,grego,holandes,hungaro,ingles,italiano,japones,noruegues,portugues,russo,sueco,turco,arabe
+portugues/ingles/espanhol
+alemao,checo,chines,coreano,dinamarques,espanhol,finlandes,grego,hungaro,ingles,italiano,japones,noruegues,portugues,russo,sueco,tailandes.,arabe
+varios

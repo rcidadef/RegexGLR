@@ -1,0 +1,24 @@
+usb
+hdmi,usb
+av,usb
+pictbridge,usb
+av,hdmi,pictbridge,usb
+usb,wi fi
+hdmi
+av,hdmi,usb
+hdmi,pictbridge,usb
+hdmi,usb,wi fi
+mini-hdmi,usb
+av
+nao possui
+hdmi,wi fi
+av,wi fi
+hdmi,mini-usb
+av,mini-hdmi,usb
+av,mini-hdmi,mini-usb,usb
+mini-usb
+mini-hdmi,mini-usb
+audio and video out
+conexao usb
+adaptador ac 100~240v - 50/60hz - 0,3 a - 5v dc
+usb e hdmi

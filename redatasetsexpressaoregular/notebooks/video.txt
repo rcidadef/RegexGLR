@@ -1,0 +1,153 @@
+nao informado pelo fornecedor
+intel graphic media acelator hd
+intel
+intel graphics media accelerator 4500m / compartilha ate 1695mb de memoria para graficos
+placa de video nvidia geforce 310m com 512mb-ddr3 de memoria dedicada
+intel hd graphics com 128 mb compartilhada
+ati mobility radeon(tm) hd 5470
+amd mobility radeon (tm) hd 6310 graphics
+nao informado pelo fabricante.
+intel gma hd
+intel gma hd.
+placa de video integrada.
+amd radeon hd 6470m; memoria 512mb dedicada
+integrada
+intel hd graphics; ate 1.696 mb de memoria compartilhada disponivel para graficos
+nvidia geforce gt 425m c/ 1gb de memoria dedicada.
+intel® hd graphics ate 1,70gb compartilhada.
+nvidia geforce gt 335m c/ 1gb de memoria dedicada.
+nvidia geforce g 310m com 512mb de memoria dedicada.
+intel hd graphics com 128 mb de memoria dedicada
+ati rs780mn+sb700 (directx 10)
+ati rs780mn+sb700 (directx 10).
+intel  hd graphics 3000
+intel  hd graphics 3000 (integrada - modo stamina) / amd radeon¿  hd 6470m ( dedicada - modo speed)
+nvidia geforce 310m(ddr3 512vram)
+intel graphics 3000 (512mb dedicado /1.6 gb compartilhado)
+processamento de video integrado compartilhado dinamicamente, com suporte a graficos 2d/3d e microsoft directx 10
+processamento de video integrado compartilhado ate 256mb, com suporte a graficos 2d/3d e microsoft®directx 9.
+processamento de video integrado, com suporte a graficos 2d/3d e microsoft directx 10
+intel® graphics media accelerator 4500m integrated 3d graphics
+intel® hd graphics com 128 mb compartilhada
+integrated ati radeon hd 4250 graphics
+intel hd graphics
+intel graphics 3000 (512mb dedicado /1.6gb compartilhado)
+intel grafic media acelator x4500
+nvidia geforce gt 520m c/ 1gb de memoria dedicada ddr3
+ati mobility radeon- hd 6310(6),  com ate 948mb de memoria grafica total
+amd radeon  hd 6320 graphics
+amd radeon - hd 6320 graphics
+hibrida: intel®  hd graphics 3000 (integrada - modo stamina) / amd radeon(tm) hd 6470m ( dedicada - modo speed)
+512mb dedicada (no modo speed)
+placa de video integrada
+webcam para videochamadas
+nao possui
+sim
+ati mobility radeon hd 6250 (64mb dedicado/1.6gb compartilhado)
+1gb de memoria dedicada
+intel graphics
+intel gma 3600
+processamento de video integrado intel hd graphics 3000 com suporte a directx 10.1
+nvidia geforce gt520m ddr3 (1gb dedicada)
+nvidia geforce gt555m com 2gb de memoria dedicada com tecnologia optimus
+placa de video integrada intel
+amd radeon(tm) hd 7550m
+processamento de video integrado compartilhado dinamicamente com suporte a graficos 2d/3d e microsoft directx 10
+amd radeon(tm) hd 7570m com 512mb dedicada
+intel hd graphics 128mb de memoria dedicada
+intel® (nm10 express chipset)
+intel® hd graphics
+processamento de video integrado compartilhado dinamicamente, com suporte a intel hd graphics 2000
+amd radeon hd7650m ddr3 (1gb dedicada)
+processamento de video integrado radeon hd 6290, com suporte a graficos 2d/3d e microsoft directx11
+processamento de video integrado amd radeon hd6290 graphics
+processamento de video integrado  intel graphisc
+processamento de video integrado  intel hd graphisc 2000
+amd radeon graphics
+intel® dual core
+nvidia® geforce® gt 630m graphics (optimus technology), 2gb de memoria dedicada
+nvidia® geforce® gt 630m graphics (optimus technology), 2gb de memoria dedicada
+intel® hd graphics 3000
+amd hudson -m1( directx 11)
+integrada, com tecnologia amd radeon hd 6290
+intel® hd graphics 4000 - compartilhada
+intel® hd graphics 4000 integrada  e  amd radeon  hd 7670m
+intel® hd graphics 2000 - compartilhada
+placa de video intel hd graphics 4000 integrada
+processamento de video integrado intel hd graphics
+processamento de video integrado intel hd graphics 3000
+intel® hd graphics 3000 - compartilhada
+nvidia geforce gt 630m | 2 gb ddr3 (dedicada)
+amd® radeon hd 6290
+intel® hd graphics 2000
+intel® hd graphics 4000
+nvidia® geforce® gt 630m
+nvidia® geforce® gt 630m (2gb de memoria dedicada)
+intel hd graphic ate 1720mb
+intel hd graphic 4000 ate 1720mb
+intel hd graphics 4000 - compartilhada
+amd radeon hd 6290
+intel hd graphics com dvmt
+intel hd graphicis com dvmt
+amd radeon hd 6320 - compartilhada
+processamento de video integrado intel hd graphics 2000
+amd radeon hd 8850m graphics (powerexpress),  2 gb gddr3 dedicada
+intel hd graphics 4000 - compartilhada
+intel hd graphics 3000 compartilha
+intel(r) hd graphics 4000 integrada e nvidial geforce gt 735m dedicada
+intel hd graphics 4000
+processamento de video integrado intel hd graphics 4000
+integrada intel
+nvidia geforce gt 635m com 2gb dedicados (n13p-glr ddr3) e suporte a directx 11
+placa de video intel hd 4000 com ate 1.696 mb de memoria grafica total(4)
+nao
+nao informado
+placa de video intel® hd 4400(14)
+processamento de video integrado intel® hd graphics
+amd radeon¿ hd 8670m 2gb
+processamento de video integrado intel hd 6290 graphics
+amd radeon hd 6290
+amd radeon hd 7290 compartilha
+amd radeon hd 8180g compartilhada
+intel hd graphics 4000 compartilhado
+placas de video comutaveis amd radeon¿ hd 8670m com ddr3l de 2.048 mb com ate 5.775 mb de memoria grafica total
+nao se aplica
+placa de video intel hd 4400(14)
+placas de video comutaveis amd radeon¿ hd 8670m com ddr3 de 2.048 mb com ate 3.727 mb de memoria grafica total
+amd radeon hd 7290
+nvidia gt740m com 2gb ddr3l
+amd radeon hd 8180g
+hd graphics 4000
+intel hd graphics 4000 (14)
+hd graphics 4000
+amd radeon hd 8970m c/ 2gb gddr5
+nvidia quadro k3100m/4gb ddr5
+geforce gtx 780m/4gb gddr5
+nvidia geforce gtx765 c/ 2gb gddr5
+intel hd graphic 4000
+intel sd sata ii
+hd graphics 4400
+intel hd graphics 3000
+nvidia geforce gt 720m
+amd radeon hd 8210
+nao tem placa de video dedicada
+intel hd graphics gen7
+processamento de video integrado intel hd graphics 2000
+processamento de video integrado intel hd graphics; aceleracao grafica integrada de videos em alta definicao (hd) e suporte a microsoft directx 211.1 e opengl2 4.0
+amd radeon 8330
+nvidia geforce 820m 2gb ddr3l
+nvidia geforce gt 740m 2gb ddr3
+intel® hd graphics 4400 - integrada
+intel hd graphics 4000
+intel hd graphics gen7
+nvidia geforce gt 720m
+nvidia geforce gt 740m
+intel hd graphics 4400
+nvidia geforce gt 820m
+processamento de video integrado intel hd graphics. aceleracao grafica integrada de videos em alta definicao (hd) e suporte a microsoft directx 11 e opengl 4.0
+processamento de video integrado intel hd graphics / aceleracao grafica integrada de videos em alta definicao (hd) e suporte a microsoft directx 11 e opengl 4.0
+inte hd graphics 4000(14)
+intel hd graphics 4400(14)
+intel hd graphics
+nvidia geforce 830m graficos com 2048mb ddr3 de memoria de video dedicada e ate 4096mb de memoria grafica total
+amd radeon hd r7 m265 2gb ddr3
