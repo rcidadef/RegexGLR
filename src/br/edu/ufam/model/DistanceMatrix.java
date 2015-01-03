@@ -56,6 +56,7 @@ public class DistanceMatrix {
 		int ip;
 		ConsensusPattern p = l.get(0);
 		PathMatrix pm = new PathMatrix();
+		
 		// Preenche a matrix de distancias com a pontuacao de cada par de 
 		// ConsensusPattern em l
 		int size = l.size();
@@ -74,6 +75,7 @@ public class DistanceMatrix {
 		while (l.size() > 1) {
 			// Pegar indices de maior pontuacao
 			getMaxScoreIndexes(s);
+
 			// Constroi a matrix de caminhamento, alinha ConsensusPattern e 
 			// os une
 			pm.buildMatrix(l.get(imax), l.get(jmax));
@@ -97,6 +99,7 @@ public class DistanceMatrix {
 			}
 			l.remove(jmax);
 			s.remove(jmax);
+
 			// Remove as colunas de s correspondentes aos ConsensusPattern
 			// usados para gerar p  
 			for (ArrayList<Integer> ai : s) {
@@ -121,49 +124,7 @@ public class DistanceMatrix {
 				s.get(ip).set(i, new Integer(pm.getScore()));
 				s.get(i).add(new Integer(pm.getScore()));
 			}
-//			// Remove os ConsensusPattern usados para gerar p de l
-//			l.remove(imax);
-//			if (jmax < imax) {
-//				l.remove(jmax);
-//			} else {
-//				l.remove(jmax - 1);
-//			}
-//
-//			// Remove as linhas  de s correspondentes aos ConsensusPattern 
-//			// usados para gerar p
-//			s.remove(imax);
-//			if (jmax < imax) {
-//				s.remove(jmax);
-//			} else {
-//				s.remove(jmax - 1);
-//			}
-//
-//			// Remove as colunas de s correspondentes aos ConsensusPattern
-//			// usados para gerar p  
-//			for (ArrayList<Integer> ai : s) {
-//				ai.remove(imax);
-//				if (jmax < imax) {
-//					ai.remove(jmax);
-//				} else {
-//					ai.remove(jmax - 1);
-//				}
-//			}
-//
-//			// Adiciona nova linha e uma nova coluna para cada linha em s
-//			// correspondendo ao novo ConsensusPattern adicionado em l
-//			ip = l.size()-1;
-//			s.add(new ArrayList<Integer>());
-//			for (int i = 0; i < l.size(); ++i) {
-//				s.get(ip).add(new Integer(0));
-//			}
-//
-//			// Calcula a pontuacao de cada ConsensusPattern em l para o novo
-//			// e o poe em s
-//			for (int i = 0; i < ip; ++i) {
-//				pm.buildMatrix(l.get(ip), l.get(i));
-//				s.get(ip).add(i, new Integer(pm.getScore()));
-//				s.get(i).add(ip, new Integer(pm.getScore()));
-//			}
+
 		}
 
 		return p;

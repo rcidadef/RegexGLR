@@ -24,7 +24,7 @@ public class ConsensusPattern {
 	// Cria uma sequencia de TokenSets apartir de uma String
 	public void tokenize(String s) {
 		char c = s.charAt(0);
-		int type = Token.mapType(Character.getType(c));
+		int type = Token.mapType(c);
 		String token = new String();
 		TokenSet tokenSet = new TokenSet();
 		pattern = new ArrayList<TokenSet>();
@@ -33,15 +33,15 @@ public class ConsensusPattern {
 
 		for (int i = 1; i != s.length(); ++i) {
 			c = s.charAt(i);
-			if (Token.mapType(Character.getType(c)) == type
-					&& Token.mapType(Character.getType(c)) != Token.SYMBOL) {
+			if (Token.mapType(c) == type
+					&& Token.mapType(c) != Token.SYMBOL) {
 				token += c;
 			} else {
 				tokenSet.add(new Token(token));
 				pattern.add(tokenSet);
 				token = new String();
 				token += c;
-				type = Token.mapType(Character.getType(c));
+				type = Token.mapType(c);
 				tokenSet = new TokenSet();
 			}
 			// Chegou ao final da String
@@ -50,7 +50,7 @@ public class ConsensusPattern {
 				pattern.add(tokenSet);
 			}
 		}
-	}
+	} /* End tokenize */
 
 	// Verifica se um caractere precisa ser escapado
 	private boolean isMeta(String mchar) {
@@ -65,7 +65,7 @@ public class ConsensusPattern {
 	}
 
 	public Pattern inferRegex() {
-		String regex = new String();
+		String regex = "^";
 
 		for (TokenSet ts : pattern) {
 			if (ts.getSize() == 1) { // Token que nao varia
@@ -75,7 +75,7 @@ public class ConsensusPattern {
 				}
 				regex += tempStr;
 			} else if (ts.hasGap() == true) { // Tokenset com gap
-				if ((ts.getSize() - 1) == 1) {
+				if (ts.getSize() == 2) {
 					String tempStr;
 					Token t;
 
@@ -126,7 +126,7 @@ public class ConsensusPattern {
 		return p;
 	}
 
-	/**
+	/*
 	 * Gera uma express�o regular generalizada a partir da sequ�ncia de
 	 * Tokensets que comp�em o ConsensusPattern. A generaliza��o se d� da
 	 * seguinte forma: 1: Tokenset de um �nico tipo se torna: Alpha: \w+
@@ -675,7 +675,7 @@ public class ConsensusPattern {
 	}
 
 	// Retorna o comprimento do maior TokenSet em pattern
-	public int getBiggestSize() {
+	public int getBiggestTokenSetSize() {
 		int size = 0;
 		for (TokenSet ts : pattern) {
 			if (ts.getSize() > size)
@@ -684,7 +684,7 @@ public class ConsensusPattern {
 		return size;
 	}
 
-	// Retorna o comprimento do maior TokenSet em pattern
+	/* Returns longest TokenSet length */
 	public int getLongestTokenSetLength() {
 		int length = 0;
 		for (TokenSet ts : pattern) {
@@ -692,9 +692,9 @@ public class ConsensusPattern {
 				length = ts.getTokensLength();
 		}
 		return length;
-	}
+	} /* End getLongestTokenSetLength */
 
-	public int getSize() {
+	public int size() {
 		return pattern.size();
 	}
 

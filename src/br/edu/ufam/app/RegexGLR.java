@@ -51,9 +51,7 @@ public class RegexGLR {
 
 	}
 
-	public static String createRegex(String filePath) {
-		ArrayList<String> stringList = Utility.readFile(filePath);
-
+	public static String createRegex(ArrayList<String> stringList) {
 		ConsensusPattern consensusPattern;
 		DistanceMatrix distanceMatrix;
 		ArrayList<ConsensusPattern> patternArray = new ArrayList<ConsensusPattern>(
@@ -65,9 +63,18 @@ public class RegexGLR {
 
 		distanceMatrix = new DistanceMatrix(patternArray);
 		consensusPattern = distanceMatrix.getConsensusPattern();
-		Pattern pattern = consensusPattern.inferGeneralRegex();
 
-		return pattern.toString();
+		System.out.println(consensusPattern.inferGeneralRegexBounds()
+				.toString());
+		System.out.println(consensusPattern.inferRegex().toString());
+
+		return consensusPattern.inferRegex().toString();
+	}
+
+	public static String createRegex(String filePath) {
+		ArrayList<String> stringList = Utility.readFile(filePath);
+
+		return createRegex(stringList);
 	}
 
 }

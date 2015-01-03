@@ -14,7 +14,6 @@ public class Token {
 	 * Standard constructor.
 	 */
 	public Token() {
-
 	}
 
 	/**
@@ -28,7 +27,7 @@ public class Token {
 		if (token == "/gap/") {
 			type = GAP;
 		} else {
-			type = mapType(Character.getType(token.charAt(0)));
+			type = mapType(token.charAt(0));
 		}
 	}
 
@@ -40,7 +39,8 @@ public class Token {
 	 * @return int thats represents a RegexGLR token type (ALPHA - 1, NUMERIC -
 	 *         2, SYMBOL - 3).
 	 */
-	public static int mapType(int t) {
+	public static int mapType(char ch) {
+		int t = Character.getType(ch);
 		int res = SYMBOL;
 		switch (t) {
 		case 1:
@@ -52,22 +52,22 @@ public class Token {
 			break;
 		}
 		return res;
-	} /* end mapType */
+	} /* End mapType */
 
 	/**
 	 * @return String that represents the Token.
 	 */
 	public String getToken() {
 		return token;
-	} /* end getToken */
+	} /* End getToken */
 
 	public int getType() {
 		return type;
-	} /* end getType */
+	} /* End getType */
 
 	public void setToken(String t) {
 		token = t;
-	}
+	} /* End setToken */
 
 	/**
 	 * Sets Token's type to t.
@@ -82,10 +82,21 @@ public class Token {
 			throw new Exception("Invalid Token type: " + t);
 		}
 		type = t;
-	}
+	} /* End setType */
 
+	/**
+	 * Tokens need to be the same type and have the same value.
+	 * 
+	 * @param t
+	 *            Token to compare with
+	 * @return True if Tokens are equal. False otherwise.
+	 */
 	public boolean equals(Token t) {
 		return (type == t.getType()) ? token.equalsIgnoreCase(t.token) : false;
-	}
+	} /* End equals */
+
+	public String toString() {
+		return token;
+	} /* End toString */
 
 }

@@ -28,7 +28,7 @@ public class Utility {
 
 		return lines;
 
-	}
+	} /* End readFile */
 
 	public static String removeAccents(String word) {
 		String[] regexes = new String[] { "[áàâãä]", "[éèêẽë]", "[íìîĩï]",
@@ -40,6 +40,6 @@ public class Utility {
 		}
 
 		return word;
-	}
+	} /* End removeAccents */
 
 }

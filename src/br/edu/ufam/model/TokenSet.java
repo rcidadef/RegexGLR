@@ -19,7 +19,7 @@ public class TokenSet {
 		return false;
 	}
 
-	/** Remove caracteres acentuados */
+	/* Remove caracteres acentuados */
 	public static String stripAccents(String s) {
 		String ns = new String();
 		ns = s.replaceAll("[����]", "a");
@@ -120,7 +120,7 @@ public class TokenSet {
 		return sum;
 	}
 
-	/** Retorna o tipo de Token em maior quantidade no Tokenset. */
+	/* Retorna o tipo de Token em maior quantidade no Tokenset. */
 	public int getLargestType() {
 		int type = 1;
 		int[] types = new int[4];
@@ -137,7 +137,7 @@ public class TokenSet {
 		return type;
 	} // fim getLargestType
 
-	/** Retorna o tipo do Tokenset, caso s� tenha um tipo, ou -1 caso contr�rio. */
+	/* Retorna o tipo do Tokenset, caso s� tenha um tipo, ou -1 caso contr�rio. */
 	public int getSetType() {
 		int type = getTypeAmount();
 		if (type == 1) {
@@ -152,7 +152,7 @@ public class TokenSet {
 		return type;
 	} // fim getSetType
 
-	/** Retorna true se Tokenset cont�m s�mbolos, ou false caso contr�rio. */
+	/* Retorna true se Tokenset cont�m s�mbolos, ou false caso contr�rio. */
 	public boolean hasSymbol() {
 		for (Token t : set) {
 			if (t.getType() == Token.SYMBOL) {
@@ -162,7 +162,7 @@ public class TokenSet {
 		return false;
 	} // fim hasSymbol
 	
-	/** Retorna o tamanho do maior Token no Tokenset */
+	/* Retorna o tamanho do maior Token no Tokenset */
 	public int getMaxLength() {
 		int max = set.get(0).getToken().length();
 		for(Token t : set) {
@@ -172,7 +172,7 @@ public class TokenSet {
 		return max;
 	}
 	
-	/** Retorna o tamanho do menor Token no Tokenset */
+	/* Retorna o tamanho do menor Token no Tokenset */
 	public int getMinLength() {
 		int min = set.get(0).getToken().length();
 		for(Token t : set) {
@@ -213,7 +213,7 @@ public class TokenSet {
 
 	// Fim funcoes de impressao
 
-	// Getters e Setters
+	/* Getters e Setters */
 	public ArrayList<Token> getSet() {
 		return set;
 	}
@@ -225,8 +225,7 @@ public class TokenSet {
 	public int getSize() {
 		return set.size();
 	}
-
-	// Fim Getters e Setters
+	/* End Getters e Setters */
 
 	public int getTokensLength() {
 		int length = 0;
@@ -261,7 +260,7 @@ public class TokenSet {
 			}
 		}
 		return false;
-	}
+	} /* End sameToken */
 
 	// Verifica se ha pelo menos um par de Tokens com tipos iguais
 	public boolean sameType(TokenSet ts) {
@@ -273,5 +272,14 @@ public class TokenSet {
 			}
 		}
 		return false;
-	}
+	} /* End sameType */
+	
+	public String toString() {
+		String tokens = "{'" + set.get(0) + "'";
+		for (Token token : set.subList(1, set.size())) {
+			tokens += ", '" + token + "'";
+		}
+		tokens += "}";
+		return tokens;
+	} /* End toString */
 }

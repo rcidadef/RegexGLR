@@ -1,8 +1,7 @@
 package br.edu.ufam.model;
 
-import java.io.*;
-import java.util.*;
-
+import java.io.FileNotFoundException;
+import java.util.Formatter;
 
 public class PathMatrix {
 	private int[][] matrix;
@@ -50,28 +49,28 @@ public class PathMatrix {
 	public void buildMatrix() {
 		if (x == null || y == null)
 			return;
-		matrix = new int[x.getSize() + 1][y.getSize() + 1];
-		for (int i = 1; i < x.getSize() + 1; ++i) {
-			for (int j = 1; j < y.getSize() + 1; ++j) {
+		matrix = new int[x.size() + 1][y.size() + 1];
+		for (int i = 1; i < x.size() + 1; ++i) {
+			for (int j = 1; j < y.size() + 1; ++j) {
 				matrix[i][j] = max(
 						sf(x.tokenSetAt(i - 1), y.tokenSetAt(j - 1), i, j)
 								+ matrix[i - 1][j - 1], matrix[i - 1][j],
 						matrix[i][j - 1]);
 			}
 		}
-		score = matrix[x.getSize()][y.getSize()];
-	} // fim buildMatrix
+		score = matrix[x.size()][y.size()];
+	} /* End buildMatrix */
 
 	public void buildMatrix(ConsensusPattern x, ConsensusPattern y) {
 		this.x = x;
 		this.y = y;
 		buildMatrix();
-	} // fim buildMatrix
+	} /* End buildMatrix */
 
 	// Funcao que alinha dois ConsensusPattern, inserindo gaps entre eles
 	public void align() {
-		int i = x.getSize();
-		int j = y.getSize();
+		int i = x.size();
+		int j = y.size();
 
 		while (i != 0 || j != 0) {
 			if (j != 0 && matrix[i][j] == matrix[i][j - 1]) {
@@ -90,16 +89,16 @@ public class PathMatrix {
 			x.print();
 			y.print();
 		}
-	} // fim align
+	} /* End align */
 
 	// Funde dois ConsensusPattern de tamanho iguais e o retorna o
 	// ConsensusPattern resultante
 	public ConsensusPattern merge() throws Exception {
 		ConsensusPattern mc = new ConsensusPattern();
-		if (x.getSize() != y.getSize()) {
+		if (x.size() != y.size()) {
 			throw new Exception("Sequencias com tamanhos diferentes!");
 		}
-		for (int i = 0; i < x.getSize(); ++i) {
+		for (int i = 0; i < x.size(); ++i) {
 			mc.getPattern().add(
 					TokenSet.tokenSetUnion(x.getPattern().get(i), y
 							.getPattern().get(i)));
